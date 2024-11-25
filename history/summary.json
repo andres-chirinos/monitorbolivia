@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 490
+      "2024-11-25": 509
     }
   },
   {
@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/diputados.gob.bo.ico",
     "slug": "asamblea-legislativa-plurinacional-de-bolivia",
     "status": "up",
-    "uptime": "95.74%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "95.74%",
+    "uptime": "95.91%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
     "time": 1753,
     "timeDay": 1753,
     "timeWeek": 1753,
@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senado.gob.bo.ico",
     "slug": "camara-de-senadores",
     "status": "up",
-    "uptime": "95.76%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "95.76%",
+    "uptime": "95.92%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "95.92%",
     "time": 5067,
     "timeDay": 5067,
     "timeWeek": 5067,
@@ -155,11 +155,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "up",
-    "uptime": "95.80%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "95.80%",
-    "uptimeMonth": "95.80%",
-    "uptimeYear": "95.80%",
+    "uptime": "95.96%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "95.96%",
     "time": 6265,
     "timeDay": 6265,
     "timeWeek": 6265,
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 489
+      "2024-11-25": 508
     }
   },
   {
@@ -296,7 +296,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-11-25": 489
+      "2024-11-25": 508
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "down",
-    "uptime": "57.40%",
-    "uptimeDay": "57.40%",
-    "uptimeWeek": "57.40%",
-    "uptimeMonth": "57.40%",
-    "uptimeYear": "57.40%",
-    "time": 2249,
-    "timeDay": 2249,
-    "timeWeek": 2249,
-    "timeMonth": 2249,
-    "timeYear": 2249,
+    "status": "up",
+    "uptime": "55.41%",
+    "uptimeDay": "55.41%",
+    "uptimeWeek": "55.41%",
+    "uptimeMonth": "55.41%",
+    "uptimeYear": "55.41%",
+    "time": 2199,
+    "timeDay": 2199,
+    "timeWeek": 2199,
+    "timeMonth": 2199,
+    "timeYear": 2199,
     "dailyMinutesDown": {
-      "2024-11-25": 201
+      "2024-11-25": 219
     }
   },
   {
@@ -541,11 +541,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ine.gob.bo.ico",
     "slug": "instituto-nacional-de-estadistica-ine",
     "status": "up",
-    "uptime": "46.78%",
-    "uptimeDay": "46.78%",
-    "uptimeWeek": "46.78%",
-    "uptimeMonth": "46.78%",
-    "uptimeYear": "46.78%",
+    "uptime": "48.82%",
+    "uptimeDay": "48.82%",
+    "uptimeWeek": "48.82%",
+    "uptimeMonth": "48.82%",
+    "uptimeYear": "48.82%",
     "time": 2440,
     "timeDay": 2440,
     "timeWeek": 2440,
@@ -572,7 +572,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 488
+      "2024-11-25": 507
     }
   },
   {
@@ -617,11 +617,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senapi.gob.bo.ico",
     "slug": "servicio-nacional-de-propiedad-intelectual-senapi",
     "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "96.92%",
+    "uptime": "97.03%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
     "time": 980,
     "timeDay": 980,
     "timeWeek": 980,
@@ -781,11 +781,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mmaya.gob.bo.ico",
     "slug": "ministerio-de-medio-ambiente-y-agua",
     "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "97.32%",
+    "uptime": "97.43%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "97.43%",
     "time": 3727,
     "timeDay": 3727,
     "timeWeek": 3727,
