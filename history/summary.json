@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1246
+      "2024-11-25": 1261
     }
   },
   {
@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/diputados.gob.bo.ico",
     "slug": "asamblea-legislativa-plurinacional-de-bolivia",
     "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.38%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 1496,
     "timeDay": 1496,
     "timeWeek": 1496,
@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senado.gob.bo.ico",
     "slug": "camara-de-senadores",
     "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.38%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 4726,
     "timeDay": 4726,
     "timeWeek": 4726,
@@ -155,11 +155,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.40%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 2693,
     "timeDay": 2693,
     "timeWeek": 2693,
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1245
+      "2024-11-25": 1260
     }
   },
   {
@@ -296,7 +296,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-11-25": 1245
+      "2024-11-25": 1260
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "up",
-    "uptime": "53.43%",
-    "uptimeDay": "53.43%",
-    "uptimeWeek": "53.43%",
-    "uptimeMonth": "53.43%",
-    "uptimeYear": "53.43%",
+    "status": "down",
+    "uptime": "53.93%",
+    "uptimeDay": "53.93%",
+    "uptimeWeek": "53.93%",
+    "uptimeMonth": "53.93%",
+    "uptimeYear": "53.93%",
     "time": 2155,
     "timeDay": 2155,
     "timeWeek": 2155,
     "timeMonth": 2155,
     "timeYear": 2155,
     "dailyMinutesDown": {
-      "2024-11-25": 572
+      "2024-11-25": 573
     }
   },
   {
@@ -541,11 +541,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ine.gob.bo.ico",
     "slug": "instituto-nacional-de-estadistica-ine",
     "status": "up",
-    "uptime": "79.49%",
-    "uptimeDay": "79.49%",
-    "uptimeWeek": "79.49%",
-    "uptimeMonth": "79.49%",
-    "uptimeYear": "79.49%",
+    "uptime": "79.74%",
+    "uptimeDay": "79.74%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "79.74%",
+    "uptimeYear": "79.74%",
     "time": 4028,
     "timeDay": 4028,
     "timeWeek": 4028,
@@ -572,7 +572,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 1244
+      "2024-11-25": 1259
     }
   },
   {
@@ -617,11 +617,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senapi.gob.bo.ico",
     "slug": "servicio-nacional-de-propiedad-intelectual-senapi",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.83%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 1040,
     "timeDay": 1040,
     "timeWeek": 1040,
@@ -781,11 +781,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mmaya.gob.bo.ico",
     "slug": "ministerio-de-medio-ambiente-y-agua",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 3175,
     "timeDay": 3175,
     "timeWeek": 3175,
