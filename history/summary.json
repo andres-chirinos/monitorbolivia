@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 17
+      "2024-11-25": 28
     }
   },
   {
@@ -93,42 +93,42 @@
   },
   {
     "name": "Asamblea Legislativa Plurinacional de Bolivia",
-    "url": "https://www.asambleanacional.gob.bo",
-    "icon": "https://icons.duckduckgo.com/ip3/www.asambleanacional.gob.bo.ico",
+    "url": "https://diputados.gob.bo/",
+    "icon": "https://icons.duckduckgo.com/ip3/diputados.gob.bo.ico",
     "slug": "asamblea-legislativa-plurinacional-de-bolivia",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1753,
+    "timeDay": 1753,
+    "timeWeek": 1753,
+    "timeMonth": 1753,
+    "timeYear": 1753,
     "dailyMinutesDown": {
-      "2024-11-25": 17
+      "2024-11-25": 20
     }
   },
   {
     "name": "Cámara de Senadores",
-    "url": "https://www.senado.bo",
-    "icon": "https://icons.duckduckgo.com/ip3/www.senado.bo.ico",
+    "url": "https://www.senado.gob.bo/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.senado.gob.bo.ico",
     "slug": "camara-de-senadores",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 5067,
+    "timeDay": 5067,
+    "timeWeek": 5067,
+    "timeMonth": 5067,
+    "timeYear": 5067,
     "dailyMinutesDown": {
-      "2024-11-25": 17
+      "2024-11-25": 20
     }
   },
   {
@@ -151,22 +151,22 @@
   },
   {
     "name": "Gaceta Oficial del Estado Plurinacional de Bolivia",
-    "url": "https://www.gacetaoficialdebolivia.gob.bo",
+    "url": "http://www.gacetaoficialdebolivia.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 6265,
+    "timeDay": 6265,
+    "timeWeek": 6265,
+    "timeMonth": 6265,
+    "timeYear": 6265,
     "dailyMinutesDown": {
-      "2024-11-25": 17
+      "2024-11-25": 20
     }
   },
   {
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 17
+      "2024-11-25": 28
     }
   },
   {
@@ -281,8 +281,8 @@
   },
   {
     "name": "Administradora Boliviana de Carreteras (ABC)",
-    "url": "https://www.abc.gob.bo",
-    "icon": "https://icons.duckduckgo.com/ip3/www.abc.gob.bo.ico",
+    "url": "https://www.viasbolivia.gob.bo/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.viasbolivia.gob.bo.ico",
     "slug": "administradora-boliviana-de-carreteras-abc",
     "status": "down",
     "uptime": "0.00%",
@@ -296,7 +296,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-11-25": 16
+      "2024-11-25": 27
     }
   },
   {
@@ -448,7 +448,7 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -460,7 +460,7 @@
     "timeMonth": 2123,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2024-11-25": 15
+      "2024-11-25": 22
     }
   },
   {
@@ -552,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 15
+      "2024-11-25": 26
     }
   },
   {
@@ -572,7 +572,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-25": 15
+      "2024-11-25": 26
     }
   },
   {
@@ -612,28 +612,8 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Viceministerio de Turismo",
-    "url": "https://www.bolivia.travel",
-    "icon": "https://icons.duckduckgo.com/ip3/www.bolivia.travel.ico",
-    "slug": "viceministerio-de-turismo",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-11-25": 15
-    }
-  },
-  {
     "name": "Servicio Nacional de Propiedad Intelectual (SENAPI)",
-    "url": "https://www.senapi.gob.bo",
+    "url": "https://www.senapi.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.senapi.gob.bo.ico",
     "slug": "servicio-nacional-de-propiedad-intelectual-senapi",
     "status": "up",
