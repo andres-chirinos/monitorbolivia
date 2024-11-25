@@ -14,13 +14,13 @@ sites:
   - name: Tribunal Supremo Electoral (TSE)
     url: https://www.oep.org.bo
   - name: Asamblea Legislativa Plurinacional de Bolivia
-    url: https://www.asambleanacional.gob.bo
+    url: https://diputados.gob.bo/
   - name: Cámara de Senadores
-    url: https://www.senado.bo
+    url: https://www.senado.gob.bo/
   - name: Cámara de Diputados
     url: https://www.diputados.bo
   - name: Gaceta Oficial del Estado Plurinacional de Bolivia
-    url: https://www.gacetaoficialdebolivia.gob.bo
+    url: http://www.gacetaoficialdebolivia.gob.bo/
   - name: Defensoría del Pueblo
     url: https://www.defensoria.gob.bo
   - name: Contraloría General del Estado
@@ -34,7 +34,7 @@ sites:
   - name: Sistema de Universidades Bolivianas (CEUB)
     url: https://www.ceub.edu.bo
   - name: Administradora Boliviana de Carreteras (ABC)
-    url: https://www.abc.gob.bo
+    url: https://www.viasbolivia.gob.bo/
   - name: Empresa Nacional de Telecomunicaciones (ENTEL)
     url: https://www.entel.bo
   - name: Banco Unión
@@ -69,10 +69,8 @@ sites:
     url: https://www.oopp.gob.bo
   - name: Dirección General de Aeronáutica Civil (DGAC)
     url: https://www.dgac.gob.bo
-  - name: Viceministerio de Turismo
-    url: https://www.bolivia.travel
   - name: Servicio Nacional de Propiedad Intelectual (SENAPI)
-    url: https://www.senapi.gob.bo
+    url: https://www.senapi.gob.bo/
   - name: Autoridad de Fiscalización de Electricidad y Tecnología Nuclear (AETN)
     url: https://www.aetn.gob.bo
   - name: Mi Teleférico
