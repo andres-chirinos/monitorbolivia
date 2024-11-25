@@ -3,34 +3,106 @@ owner: andres-chirinos # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Universidad Mayor de San Andres
-    url: https://umsa.bo
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Agencia Nacional de Hidrocarburos (ANH)
+    url: https://www.anh.gob.bo
+  - name: Servicio General de Identificación Personal (SEGIP)
+    url: https://www.segip.gob.bo
+  - name: Servicio de Impuestos Nacionales (SIN)
+    url: https://www.impuestos.gob.bo
+  - name: Ministerio de Educación
+    url: https://www.minedu.gob.bo
+  - name: Tribunal Supremo Electoral (TSE)
+    url: https://www.oep.org.bo
+  - name: Asamblea Legislativa Plurinacional de Bolivia
+    url: https://www.asambleanacional.gob.bo
+  - name: Cámara de Senadores
+    url: https://www.senado.bo
+  - name: Cámara de Diputados
+    url: https://www.diputados.bo
+  - name: Gaceta Oficial del Estado Plurinacional de Bolivia
+    url: https://www.gacetaoficialdebolivia.gob.bo
+  - name: Defensoría del Pueblo
+    url: https://www.defensoria.gob.bo
+  - name: Contraloría General del Estado
+    url: https://www.contraloria.gob.bo
+  - name: Procuraduría General del Estado
+    url: https://www.procuraduria.gob.bo
+  - name: Universidad Mayor de San Andrés (UMSA)
+    url: https://www.umsa.bo
+  - name: Universidad Técnica de Oruro (UTO)
+    url: https://www.uto.edu.bo
+  - name: Sistema de Universidades Bolivianas (CEUB)
+    url: https://www.ceub.edu.bo
+  - name: Administradora Boliviana de Carreteras (ABC)
+    url: https://www.abc.gob.bo
+  - name: Empresa Nacional de Telecomunicaciones (ENTEL)
+    url: https://www.entel.bo
+  - name: Banco Unión
+    url: https://www.bancounion.com.bo
+  - name: Banco Central de Bolivia (BCB)
+    url: https://www.bcb.gob.bo
+  - name: Bolivia TV (BTV)
+    url: https://www.boliviatv.bo
+  - name: Boliviana de Aviación (BoA)
+    url: https://www.boa.bo
+  - name: Seguros y Reaseguros Personales UNIVIDA
+    url: https://www.univida.bo
+  - name: Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)
+    url: https://www.ypfb.gob.bo
+  - name: Autoridad de Supervisión del Sistema Financiero (ASFI)
+    url: https://www.asfi.gob.bo
+  - name: Aduana Nacional de Bolivia
+    url: https://www.aduana.gob.bo
+  - name: Ministerio de Salud y Deportes
+    url: https://www.minsalud.gob.bo
+  - name: Policía Boliviana
+    url: https://www.policia.bo
+  - name: Ministerio de Justicia y Transparencia Institucional
+    url: https://www.justicia.gob.bo
+  - name: Autoridad de Fiscalización y Control de Pensiones y Seguros (APS)
+    url: https://www.aps.gob.bo
+  - name: Instituto Nacional de Estadística (INE)
+    url: https://www.ine.gob.bo
+  - name: Ministerio de Defensa
+    url: https://www.mindef.gob.bo
+  - name: Ministerio de Obras Públicas, Servicios y Vivienda
+    url: https://www.oopp.gob.bo
+  - name: Dirección General de Aeronáutica Civil (DGAC)
+    url: https://www.dgac.gob.bo
+  - name: Viceministerio de Turismo
+    url: https://www.bolivia.travel
+  - name: Servicio Nacional de Propiedad Intelectual (SENAPI)
+    url: https://www.senapi.gob.bo
+  - name: Autoridad de Fiscalización de Electricidad y Tecnología Nuclear (AETN)
+    url: https://www.aetn.gob.bo
+  - name: Mi Teleférico
+    url: https://www.miteleferico.bo
+  - name: Servicio Nacional de Meteorología e Hidrología (SENAMHI)
+    url: https://www.senamhi.gob.bo
+  - name: Agencia Boliviana Espacial (ABE)
+    url: https://www.abe.bo
+  - name: Caja Nacional de Salud (CNS)
+    url: https://www.cns.gob.bo
+  - name: Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT)
+    url: https://www.att.gob.bo
+  - name: Empresa Nacional de Electricidad (ENDE)
+    url: https://www.ende.bo
+  - name: Instituto Boliviano de Comercio Exterior (IBCE)
+    url: https://www.ibce.org.bo
+  - name: Ministerio de Medio Ambiente y Agua
+    url: https://www.mmaya.gob.bo
+  - name: Agencia para el Desarrollo de la Sociedad de la Información en Bolivia (ADSIB)
+    url: https://www.adsib.gob.bo
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Monitor Bolivia
+  introTitle: "Monitor Bolivia"
+  introMessage: Estado en linea de las paginas de bolivia en tiempo real.
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
