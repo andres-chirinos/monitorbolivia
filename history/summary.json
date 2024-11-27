@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 1175,
+      "2024-11-27": 1189,
       "2024-11-26": 1440,
       "2024-11-25": 1280
     }
@@ -225,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 1175,
+      "2024-11-27": 1189,
       "2024-11-26": 1440,
       "2024-11-25": 1279
     }
@@ -301,7 +301,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-11-27": 1175,
+      "2024-11-27": 1189,
       "2024-11-26": 1440,
       "2024-11-25": 1279
     }
@@ -455,19 +455,19 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "down",
-    "uptime": "50.18%",
-    "uptimeDay": "44.77%",
-    "uptimeWeek": "50.18%",
-    "uptimeMonth": "50.18%",
-    "uptimeYear": "50.18%",
-    "time": 2214,
-    "timeDay": 2159,
-    "timeWeek": 2214,
-    "timeMonth": 2214,
-    "timeYear": 2214,
+    "status": "up",
+    "uptime": "50.03%",
+    "uptimeDay": "43.91%",
+    "uptimeWeek": "50.03%",
+    "uptimeMonth": "50.03%",
+    "uptimeYear": "50.03%",
+    "time": 2220,
+    "timeDay": 2180,
+    "timeWeek": 2220,
+    "timeMonth": 2220,
+    "timeYear": 2220,
     "dailyMinutesDown": {
-      "2024-11-27": 633,
+      "2024-11-27": 646,
       "2024-11-26": 714,
       "2024-11-25": 586
     }
@@ -550,11 +550,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ine.gob.bo.ico",
     "slug": "instituto-nacional-de-estadistica-ine",
     "status": "up",
-    "uptime": "93.50%",
+    "uptime": "93.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "93.50%",
+    "uptimeWeek": "93.52%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "93.52%",
     "time": 3649,
     "timeDay": 2512,
     "timeWeek": 3649,
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 1175,
+      "2024-11-27": 1189,
       "2024-11-26": 1440,
       "2024-11-25": 1278
     }
@@ -592,11 +592,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oopp.gob.bo.ico",
     "slug": "ministerio-de-obras-publicas-servicios-y-vivienda",
     "status": "up",
-    "uptime": "83.93%",
+    "uptime": "83.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.93%",
-    "uptimeMonth": "83.93%",
-    "uptimeYear": "83.93%",
+    "uptimeWeek": "83.98%",
+    "uptimeMonth": "83.98%",
+    "uptimeYear": "83.98%",
     "time": 6016,
     "timeDay": 5909,
     "timeWeek": 6016,
@@ -794,11 +794,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mmaya.gob.bo.ico",
     "slug": "ministerio-de-medio-ambiente-y-agua",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
     "time": 3229,
     "timeDay": 2899,
     "timeWeek": 3229,
