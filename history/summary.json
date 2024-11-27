@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 946,
+      "2024-11-27": 959,
       "2024-11-26": 1440,
       "2024-11-25": 1280
     }
@@ -157,11 +157,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "99.04%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
     "time": 3224,
     "timeDay": 3180,
     "timeWeek": 3224,
@@ -225,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 946,
+      "2024-11-27": 959,
       "2024-11-26": 1440,
       "2024-11-25": 1279
     }
@@ -301,7 +301,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-11-27": 946,
+      "2024-11-27": 959,
       "2024-11-26": 1440,
       "2024-11-25": 1279
     }
@@ -455,19 +455,19 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "up",
-    "uptime": "50.96%",
-    "uptimeDay": "47.54%",
-    "uptimeWeek": "50.96%",
-    "uptimeMonth": "50.96%",
-    "uptimeYear": "50.96%",
+    "status": "down",
+    "uptime": "51.11%",
+    "uptimeDay": "47.50%",
+    "uptimeWeek": "51.11%",
+    "uptimeMonth": "51.11%",
+    "uptimeYear": "51.11%",
     "time": 2219,
-    "timeDay": 2277,
+    "timeDay": 2262,
     "timeWeek": 2219,
     "timeMonth": 2219,
     "timeYear": 2219,
     "dailyMinutesDown": {
-      "2024-11-27": 490,
+      "2024-11-27": 491,
       "2024-11-26": 714,
       "2024-11-25": 586
     }
@@ -550,11 +550,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ine.gob.bo.ico",
     "slug": "instituto-nacional-de-estadistica-ine",
     "status": "up",
-    "uptime": "93.09%",
+    "uptime": "93.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.09%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "93.09%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "93.11%",
     "time": 3649,
     "timeDay": 2512,
     "timeWeek": 3649,
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 946,
+      "2024-11-27": 959,
       "2024-11-26": 1440,
       "2024-11-25": 1278
     }
@@ -592,11 +592,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oopp.gob.bo.ico",
     "slug": "ministerio-de-obras-publicas-servicios-y-vivienda",
     "status": "up",
-    "uptime": "82.92%",
+    "uptime": "82.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.92%",
-    "uptimeMonth": "82.92%",
-    "uptimeYear": "82.92%",
+    "uptimeWeek": "82.98%",
+    "uptimeMonth": "82.98%",
+    "uptimeYear": "82.98%",
     "time": 6016,
     "timeDay": 5909,
     "timeWeek": 6016,
