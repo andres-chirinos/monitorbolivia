@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 1304,
+      "2024-12-11": 1317,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -254,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 1304,
+      "2024-12-11": 1317,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -351,7 +351,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-12-11": 1304,
+      "2024-12-11": 1317,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -525,25 +525,25 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "up",
-    "uptime": "79.66%",
-    "uptimeDay": "41.97%",
-    "uptimeWeek": "51.24%",
-    "uptimeMonth": "79.66%",
-    "uptimeYear": "79.66%",
+    "status": "down",
+    "uptime": "79.73%",
+    "uptimeDay": "42.78%",
+    "uptimeWeek": "51.37%",
+    "uptimeMonth": "79.73%",
+    "uptimeYear": "79.73%",
     "time": 2273,
     "timeDay": 2108,
-    "timeWeek": 2294,
+    "timeWeek": 2297,
     "timeMonth": 2273,
     "timeYear": 2273,
     "dailyMinutesDown": {
-      "2024-12-11": 730,
+      "2024-12-11": 731,
       "2024-12-10": 873,
       "2024-12-09": 752,
       "2024-12-08": 794,
       "2024-12-07": 833,
       "2024-12-06": 781,
-      "2024-12-05": 157
+      "2024-12-05": 143
     }
   },
   {
@@ -657,7 +657,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 1304,
+      "2024-12-11": 1317,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
