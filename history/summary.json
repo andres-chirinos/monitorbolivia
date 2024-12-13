@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 116,
+      "2024-12-13": 120,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -257,7 +257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 116,
+      "2024-12-13": 120,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -356,7 +356,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-12-13": 116,
+      "2024-12-13": 120,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -534,7 +534,7 @@
     "slug": "aduana-nacional-de-bolivia",
     "status": "up",
     "uptime": "80.55%",
-    "uptimeDay": "40.75%",
+    "uptimeDay": "41.02%",
     "uptimeWeek": "50.10%",
     "uptimeMonth": "80.55%",
     "uptimeYear": "80.55%",
@@ -665,7 +665,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-13": 116,
+      "2024-12-13": 120,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
@@ -869,18 +869,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ende.bo.ico",
     "slug": "empresa-nacional-de-electricidad-ende",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1373,
     "timeDay": 1190,
     "timeWeek": 1248,
     "timeMonth": 1373,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2024-12-13": 0
+      "2024-12-13": 4
     }
   },
   {
