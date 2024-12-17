@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 945,
+      "2024-12-17": 958,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -266,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 945,
+      "2024-12-17": 958,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -369,7 +369,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-12-17": 945,
+      "2024-12-17": 958,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -551,25 +551,25 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "up",
-    "uptime": "84.22%",
-    "uptimeDay": "38.40%",
-    "uptimeWeek": "49.20%",
-    "uptimeMonth": "84.22%",
-    "uptimeYear": "84.22%",
+    "status": "down",
+    "uptime": "84.40%",
+    "uptimeDay": "39.23%",
+    "uptimeWeek": "49.77%",
+    "uptimeMonth": "84.40%",
+    "uptimeYear": "84.40%",
     "time": 2261,
     "timeDay": 2439,
     "timeWeek": 2227,
     "timeMonth": 2261,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2024-12-17": 620,
+      "2024-12-17": 622,
       "2024-12-16": 872,
       "2024-12-15": 715,
       "2024-12-14": 893,
       "2024-12-13": 721,
       "2024-12-12": 753,
-      "2024-12-11": 544
+      "2024-12-11": 484
     }
   },
   {
@@ -578,18 +578,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minsalud.gob.bo.ico",
     "slug": "ministerio-de-salud-y-deportes",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.57%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1345,
     "timeDay": 1089,
     "timeWeek": 1222,
     "timeMonth": 1345,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2024-12-17": 1,
+      "2024-12-17": 14,
       "2024-12-09": 127
     }
   },
@@ -599,18 +599,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.policia.bo.ico",
     "slug": "policia-boliviana",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.62%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 2708,
     "timeDay": 2264,
     "timeWeek": 2555,
     "timeMonth": 2708,
     "timeYear": 2708,
     "dailyMinutesDown": {
-      "2024-12-17": 110
+      "2024-12-17": 124
     }
   },
   {
@@ -686,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 945,
+      "2024-12-17": 959,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
