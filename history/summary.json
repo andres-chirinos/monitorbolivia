@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 1292,
+      "2024-12-23": 1306,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -160,7 +160,7 @@
     "slug": "camara-de-senadores",
     "status": "up",
     "uptime": "92.66%",
-    "uptimeDay": "34.62%",
+    "uptimeDay": "35.53%",
     "uptimeWeek": "70.26%",
     "uptimeMonth": "92.66%",
     "uptimeYear": "92.66%",
@@ -283,7 +283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 1292,
+      "2024-12-23": 1306,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -392,7 +392,7 @@
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-12-23": 1292,
+      "2024-12-23": 1306,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -582,24 +582,24 @@
     "url": "https://www.aduana.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.aduana.gob.bo.ico",
     "slug": "aduana-nacional-de-bolivia",
-    "status": "up",
-    "uptime": "90.81%",
-    "uptimeDay": "59.93%",
-    "uptimeWeek": "62.21%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "90.81%",
+    "status": "down",
+    "uptime": "90.88%",
+    "uptimeDay": "59.86%",
+    "uptimeWeek": "62.50%",
+    "uptimeMonth": "90.88%",
+    "uptimeYear": "90.88%",
     "time": 2254,
     "timeDay": 2211,
     "timeWeek": 2264,
     "timeMonth": 2254,
     "timeYear": 2254,
     "dailyMinutesDown": {
-      "2024-12-23": 482,
+      "2024-12-23": 483,
       "2024-12-22": 694,
       "2024-12-21": 702,
       "2024-12-20": 664,
       "2024-12-19": 597,
-      "2024-12-18": 671
+      "2024-12-18": 641
     }
   },
   {
@@ -721,7 +721,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 1293,
+      "2024-12-23": 1306,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
