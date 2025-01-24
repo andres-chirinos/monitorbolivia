@@ -1,7 +1,7 @@
 url: https://www.abe.bo
-status: up
-code: 200
-responseTime: 8659
-lastUpdated: 2025-01-24T13:28:57.311Z
+status: down
+code: 500
+responseTime: 3390
+lastUpdated: 2025-01-24T14:19:45.746Z
 startTime: 2024-11-25T02:56:48.801Z
 generator: Upptime <https://github.com/upptime/upptime>
