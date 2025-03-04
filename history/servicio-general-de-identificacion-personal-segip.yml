@@ -1,7 +1,7 @@
 url: https://www.segip.gob.bo
-status: up
-code: 200
-responseTime: 943
-lastUpdated: 2025-03-04T11:35:13.922Z
+status: down
+code: 403
+responseTime: 188
+lastUpdated: 2025-03-04T12:17:34.706Z
 startTime: 2024-11-25T02:54:43.833Z
 generator: Upptime <https://github.com/upptime/upptime>
