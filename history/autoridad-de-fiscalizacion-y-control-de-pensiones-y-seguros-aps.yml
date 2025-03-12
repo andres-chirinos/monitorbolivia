@@ -1,7 +1,7 @@
 url: https://www.aps.gob.bo
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-12T23:12:18.740Z
+status: up
+code: 200
+responseTime: 1191
+lastUpdated: 2025-03-12T23:22:25.549Z
 startTime: 2024-11-25T02:55:58.851Z
 generator: Upptime <https://github.com/upptime/upptime>
