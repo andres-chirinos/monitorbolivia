@@ -29,18 +29,19 @@
     "url": "https://www.segip.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.segip.gob.bo.ico",
     "slug": "servicio-general-de-identificacion-personal-segip",
-    "status": "up",
-    "uptime": "94.13%",
-    "uptimeDay": "53.25%",
-    "uptimeWeek": "24.43%",
-    "uptimeMonth": "77.82%",
-    "uptimeYear": "94.13%",
-    "time": 620,
-    "timeDay": 570,
-    "timeWeek": 560,
+    "status": "down",
+    "uptime": "94.17%",
+    "uptimeDay": "53.13%",
+    "uptimeWeek": "24.44%",
+    "uptimeMonth": "77.97%",
+    "uptimeYear": "94.17%",
+    "time": 619,
+    "timeDay": 555,
+    "timeWeek": 557,
     "timeMonth": 557,
-    "timeYear": 620,
+    "timeYear": 619,
     "dailyMinutesDown": {
+      "2025-03-20": 2,
       "2025-03-19": 752,
       "2025-03-18": 1057,
       "2025-03-17": 1104,
@@ -49,8 +50,7 @@
       "2025-03-14": 1385,
       "2025-03-13": 1440,
       "2025-03-12": 1080,
-      "2025-03-11": 837,
-      "2025-03-10": 68
+      "2025-03-11": 837
     }
   },
   {
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 115,
+      "2025-03-20": 118,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 3103,
     "timeYear": 2292,
     "dailyMinutesDown": {
-      "2025-03-20": 115,
+      "2025-03-20": 118,
       "2025-03-19": 1415,
       "2025-03-18": 1277,
       "2025-03-17": 1440,
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 115,
+      "2025-03-20": 118,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -666,7 +666,7 @@
     "uptime": "8.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.83%",
+    "uptimeMonth": "38.84%",
     "uptimeYear": "8.16%",
     "time": 1925,
     "timeDay": 1779,
@@ -1160,7 +1160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 115,
+      "2025-03-20": 118,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1489,7 +1489,7 @@
     "timeMonth": 0,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2025-03-20": 115,
+      "2025-03-20": 118,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
