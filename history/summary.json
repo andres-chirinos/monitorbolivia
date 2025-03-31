@@ -33,7 +33,7 @@
     "status": "up",
     "uptime": "93.88%",
     "uptimeDay": "53.28%",
-    "uptimeWeek": "32.75%",
+    "uptimeWeek": "32.78%",
     "uptimeMonth": "74.64%",
     "uptimeYear": "93.88%",
     "time": 598,
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 123,
+      "2025-03-31": 126,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -340,18 +340,19 @@
     "url": "http://www.gacetaoficialdebolivia.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
-    "status": "up",
-    "uptime": "81.05%",
-    "uptimeDay": "14.03%",
-    "uptimeWeek": "5.56%",
+    "status": "down",
+    "uptime": "81.06%",
+    "uptimeDay": "14.16%",
+    "uptimeWeek": "5.58%",
     "uptimeMonth": "23.19%",
-    "uptimeYear": "81.05%",
+    "uptimeYear": "81.06%",
     "time": 2554,
     "timeDay": 2844,
     "timeWeek": 3602,
     "timeMonth": 3735,
     "timeYear": 2554,
     "dailyMinutesDown": {
+      "2025-03-31": 1,
       "2025-03-30": 1360,
       "2025-03-29": 1379,
       "2025-03-28": 1360,
@@ -391,8 +392,7 @@
       "2025-01-05": 95,
       "2025-01-01": 30,
       "2024-12-28": 13,
-      "2024-12-26": 103,
-      "2024-12-23": 23
+      "2024-12-26": 103
     }
   },
   {
@@ -459,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 123,
+      "2025-03-31": 126,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -689,7 +689,7 @@
     "uptime": "16.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.15%",
+    "uptimeMonth": "65.16%",
     "uptimeYear": "16.19%",
     "time": 1995,
     "timeDay": 2025,
@@ -1191,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 123,
+      "2025-03-31": 126,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1536,7 +1536,7 @@
     "timeMonth": 0,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2025-03-31": 123,
+      "2025-03-31": 126,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
