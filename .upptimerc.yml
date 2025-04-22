@@ -147,7 +147,9 @@ sites:
     __dangerous__insecure: true
 
 status-website:
-  themeUrl: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/style.css
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/style.css
   cname: monitorbolivia.andreschirinos.tech
   logoUrl: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/logo.png
   name: Monitor de Estado de Paginas de Bolivia
@@ -166,14 +168,54 @@ i18n:
   activeIncidents: Incidentes Activos
   allSystemsOperational: Todos los sistemas funcionando
   incidentReport: "Reporte del incidente #$NUMBER →"
+  activeIncidentSummary: Iniciado en $DATE con $POSTS comentarios
+  incidentTitle: Incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Arreglado
+  incidentOngoing: En proceso
+  incidentOpenedAt: Iniciado en
+  incidentClosedAt: Cerrado en
+  incidentViewOnGitHub: Ver y seguir en GitHub
+  incidentCommentSummary: Enviado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS comentarios
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad global: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad global
+  averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
+  averageResponseTimeTitle: Promedio de tiempo de respuesta
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)x
   up: En linea
   down: Fuera de linea
-  degraded: Degraded
+  degraded: Degradado
   ms: ms
-  loading: Cargando
+  loading: Cargando...
   navGitHub: GitHub
   footer: Esta pagina es de [codigo abierto]($REPO), proveida por [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Tiempo de espera excedido
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Un error ha ocurrido
+  errorIntro: Un error ha ocurrido intentando obtener los ultimos detalles de estado.
+  errorText: Vuelve a intentarlo más tarde o revisa el [repositorio de GitHub]($REPO) para más información.
   errorHome: Ve al inicio
+  pastScheduledMaintenance: Mantenimientos programados pasados
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Comenzó en $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza en $DATE durante $DURATION minutos
+  startedAt: Comenzó en
+  startsAt: Comienza en
   duration: Duración
   durationMin: $DURATION minutos
   incidentCompleted: Completado
