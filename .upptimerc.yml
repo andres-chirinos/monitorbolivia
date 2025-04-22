@@ -28,8 +28,9 @@ sites:
     url: https://www.diputados.bo
     __dangerous__insecure: true
   - name: Gaceta Oficial del Estado Plurinacional de Bolivia
-    url: http://www.gacetaoficialdebolivia.gob.bo/
+    url: https://www.gacetaoficialdebolivia.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Defensoría del Pueblo
     url: https://www.defensoria.gob.bo
     __dangerous__insecure: true
@@ -39,6 +40,7 @@ sites:
   - name: Procuraduría General del Estado
     url: https://www.procuraduria.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Universidad Mayor de San Andrés (UMSA)
     url: https://www.umsa.bo
     __dangerous__insecure: true
@@ -51,9 +53,11 @@ sites:
   - name: Administradora Boliviana de Carreteras (ABC)
     url: https://www.viasbolivia.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Empresa Nacional de Telecomunicaciones (ENTEL)
     url: https://www.entel.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Banco Unión
     url: https://www.bancounion.com.bo
     __dangerous__insecure: true
@@ -87,6 +91,7 @@ sites:
   - name: Ministerio de Justicia y Transparencia Institucional
     url: https://www.justicia.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Autoridad de Fiscalización y Control de Pensiones y Seguros (APS)
     url: https://www.aps.gob.bo
     __dangerous__insecure: true
@@ -96,6 +101,7 @@ sites:
   - name: Ministerio de Defensa
     url: https://www.mindef.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Obras Públicas, Servicios y Vivienda
     url: https://www.oopp.gob.bo
     __dangerous__insecure: true
@@ -125,6 +131,7 @@ sites:
     __dangerous__insecure: true
   - name: Empresa Nacional de Electricidad (ENDE)
     url: https://www.ende.bo
+    maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Instituto Boliviano de Comercio Exterior (IBCE)
     url: https://www.ibce.org.bo
@@ -140,7 +147,7 @@ sites:
     __dangerous__insecure: true
 
 status-website:
-  theme: dark
+  themeUrl: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/style.css
   cname: monitorbolivia.andreschirinos.tech
   logoUrl: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/logo.png
   name: Monitor de Estado de Paginas de Bolivia
@@ -156,4 +163,77 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: Esta Pagina esta hecha con un proyecto [open source]($REPO), proveido por [Upptime](https://upptime.js.org)
+  activeIncidents: Incidentes Activos
+  allSystemsOperational: Todos los sistemas funcionando
+  incidentReport: "Reporte del incidente #$NUMBER →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: Fixed
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Opened at
+  incidentClosedAt: Closed at
+  incidentViewOnGitHub: Ver y Seguir en Github
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Back to all incidents
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: Live Status
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTimeTitle: Average response
+  sevelDayResponseTime: 7-day response time
+  responseTimeMs: Response time (ms)
+  up: En linea
+  down: Fuera de linea
+  degraded: Degraded
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Ve al inicio
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Scheduled Maintenance
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: Started at
+  startsAt: Starts at
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: desde el inicio
+  locale: es-ES
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@koj.co"
