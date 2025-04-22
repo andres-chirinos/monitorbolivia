@@ -5,102 +5,155 @@ repo: monitorbolivia # The name of this repository
 sites:
   - name: Agencia Nacional de Hidrocarburos (ANH)
     url: https://www.anh.gob.bo
+    __dangerous__insecure: true
   - name: Servicio General de Identificación Personal (SEGIP)
     url: https://www.segip.gob.bo
+    __dangerous__insecure: true
   - name: Servicio de Impuestos Nacionales (SIN)
     url: https://www.impuestos.gob.bo
+    __dangerous__insecure: true
   - name: Ministerio de Educación
     url: https://www.minedu.gob.bo
+    __dangerous__insecure: true
   - name: Tribunal Supremo Electoral (TSE)
     url: https://www.oep.org.bo
+    __dangerous__insecure: true
   - name: Asamblea Legislativa Plurinacional de Bolivia
     url: https://diputados.gob.bo/
+    __dangerous__insecure: true
   - name: Cámara de Senadores
     url: https://www.senado.gob.bo/
+    __dangerous__insecure: true
   - name: Cámara de Diputados
     url: https://www.diputados.bo
+    __dangerous__insecure: true
   - name: Gaceta Oficial del Estado Plurinacional de Bolivia
     url: http://www.gacetaoficialdebolivia.gob.bo/
+    __dangerous__insecure: true
   - name: Defensoría del Pueblo
     url: https://www.defensoria.gob.bo
+    __dangerous__insecure: true
   - name: Contraloría General del Estado
     url: https://www.contraloria.gob.bo
+    __dangerous__insecure: true
   - name: Procuraduría General del Estado
     url: https://www.procuraduria.gob.bo
+    __dangerous__insecure: true
   - name: Universidad Mayor de San Andrés (UMSA)
     url: https://www.umsa.bo
+    __dangerous__insecure: true
   - name: Universidad Técnica de Oruro (UTO)
     url: https://www.uto.edu.bo
+    __dangerous__insecure: true
   - name: Sistema de Universidades Bolivianas (CEUB)
     url: https://www.ceub.edu.bo
+    __dangerous__insecure: true
   - name: Administradora Boliviana de Carreteras (ABC)
     url: https://www.viasbolivia.gob.bo/
+    __dangerous__insecure: true
   - name: Empresa Nacional de Telecomunicaciones (ENTEL)
     url: https://www.entel.bo
+    __dangerous__insecure: true
   - name: Banco Unión
     url: https://www.bancounion.com.bo
+    __dangerous__insecure: true
   - name: Banco Central de Bolivia (BCB)
     url: https://www.bcb.gob.bo
+    __dangerous__insecure: true
   - name: Bolivia TV (BTV)
     url: https://www.boliviatv.bo
+    __dangerous__insecure: true
   - name: Boliviana de Aviación (BoA)
     url: https://www.boa.bo
+    __dangerous__insecure: true
   - name: Seguros y Reaseguros Personales UNIVIDA
     url: https://www.univida.bo
+    __dangerous__insecure: true
   - name: Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)
     url: https://www.ypfb.gob.bo
+    __dangerous__insecure: true
   - name: Autoridad de Supervisión del Sistema Financiero (ASFI)
     url: https://www.asfi.gob.bo
+    __dangerous__insecure: true
   - name: Aduana Nacional de Bolivia
     url: https://www.aduana.gob.bo
+    __dangerous__insecure: true
   - name: Ministerio de Salud y Deportes
     url: https://www.minsalud.gob.bo
+    __dangerous__insecure: true
   - name: Policía Boliviana
     url: https://www.policia.bo
+    __dangerous__insecure: true
   - name: Ministerio de Justicia y Transparencia Institucional
     url: https://www.justicia.gob.bo
+    __dangerous__insecure: true
   - name: Autoridad de Fiscalización y Control de Pensiones y Seguros (APS)
     url: https://www.aps.gob.bo
+    __dangerous__insecure: true
   - name: Instituto Nacional de Estadística (INE)
     url: https://www.ine.gob.bo
+    __dangerous__insecure: true
   - name: Ministerio de Defensa
     url: https://www.mindef.gob.bo
+    __dangerous__insecure: true
   - name: Ministerio de Obras Públicas, Servicios y Vivienda
     url: https://www.oopp.gob.bo
+    __dangerous__insecure: true
   - name: Dirección General de Aeronáutica Civil (DGAC)
     url: https://www.dgac.gob.bo
+    __dangerous__insecure: true
   - name: Servicio Nacional de Propiedad Intelectual (SENAPI)
     url: https://www.senapi.gob.bo/
+    __dangerous__insecure: true
   - name: Autoridad de Fiscalización de Electricidad y Tecnología Nuclear (AETN)
     url: https://www.aetn.gob.bo
+    __dangerous__insecure: true
   - name: Mi Teleférico
     url: https://www.miteleferico.bo
+    __dangerous__insecure: true
   - name: Servicio Nacional de Meteorología e Hidrología (SENAMHI)
     url: https://www.senamhi.gob.bo
+    __dangerous__insecure: true
   - name: Agencia Boliviana Espacial (ABE)
     url: https://www.abe.bo
+    __dangerous__insecure: true
   - name: Caja Nacional de Salud (CNS)
     url: https://www.cns.gob.bo
+    __dangerous__insecure: true
   - name: Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT)
     url: https://www.att.gob.bo
+    __dangerous__insecure: true
   - name: Empresa Nacional de Electricidad (ENDE)
     url: https://www.ende.bo
+    __dangerous__insecure: true
   - name: Instituto Boliviano de Comercio Exterior (IBCE)
     url: https://www.ibce.org.bo
+    __dangerous__insecure: true
   - name: Ministerio de Medio Ambiente y Agua
     url: https://www.mmaya.gob.bo
+    __dangerous__insecure: true
   - name: Agencia para el Desarrollo de la Sociedad de la Información en Bolivia (ADSIB)
     url: https://www.adsib.gob.bo
+    __dangerous__insecure: true
+  - name: Ministerio de Relaciones Exteriores
+    url: https://www.rree.gob.bo
+    __dangerous__insecure: true
 
 status-website:
   theme: dark
   cname: monitorbolivia.andreschirinos.tech
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Monitor Bolivia
-  introTitle: "Monitor Bolivia"
-  introMessage: Estado en linea de las paginas de bolivia en tiempo real.
+  logoUrl: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/logo.png
+  name: Monitor de Estado de Paginas de Bolivia
+  description: Monitoreo en tiempo real del estado de las páginas web de Bolivia.
+  introTitle: "Monitoreo en tiempo real del estado de las páginas web de Bolivia."
+  introMessage: Consulta el estado en línea de las páginas web gubernamentales y servicios de Bolivia.
+  favicon: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/icon.png
+  faviconSvg: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/icon.svg
   navbar:
-    - title: Status
-      href: /$REPO
-    - title: GitHub
+    - title: Sobre nosotros
+      href: https://andreschirinos.tech/
+    - title: Repositorio de GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: Esta Pagina esta hecha con un proyecto [open source]($REPO), proveido por [Upptime](https://upptime.js.org)
