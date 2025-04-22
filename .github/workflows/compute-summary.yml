@@ -26,7 +26,7 @@ jobs:
       - name: Ejecutar notebook
         run: |
           pip install nbconvert pyarrow
-          jupyter nbconvert --to notebook --execute pipeline/index.ipynb --output pipeline/index_executed.ipynb
+          jupyter nbconvert --to notebook --execute pipeline/index.ipynb --output index_executed.ipynb
 
       - name: Subir a Kaggle
         uses: jaimevalero/push-kaggle-dataset@v3.2
