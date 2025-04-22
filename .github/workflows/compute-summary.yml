@@ -1,4 +1,4 @@
-name: Transformar y Subir Summary
+name: Transformar y Subir Summary Workflow
 
 on:
   workflow_dispatch:
@@ -16,7 +16,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          python-version: 3.11
 
       - name: Instalar dependencias
         run: |
