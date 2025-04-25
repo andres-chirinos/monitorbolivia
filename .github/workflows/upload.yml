@@ -38,5 +38,5 @@ jobs:
           title: "Monitoreo en tiempo real del estado de las páginas web de Bolivia."
           subtitle: "Consulta el estado en línea de las páginas web gubernamentales y servicios de Bolivia."
           description: "Columnas: Date - Fecha de la medición. domain - Dominio/subdominio de la página web. time - Tiempo fuera de línea en minutos. type - Tipo de registro (down: fuera de línea, created: inicio de monitoreo, last_updated)."
-          files: history/summary.parquet
+          files: *.parquet
           is_public: true
