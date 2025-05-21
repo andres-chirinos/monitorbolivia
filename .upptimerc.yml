@@ -28,7 +28,7 @@ sites:
     url: https://www.diputados.bo
     __dangerous__insecure: true
   - name: Gaceta Oficial del Estado Plurinacional de Bolivia
-    url: https://www.gacetaoficialdebolivia.gob.bo/
+    url: http://www.gacetaoficialdebolivia.gob.bo/
     __dangerous__insecure: true
     maxResponseTime: 5000
   - name: Defensoría del Pueblo
@@ -130,7 +130,7 @@ sites:
     url: https://www.att.gob.bo
     __dangerous__insecure: true
   - name: Empresa Nacional de Electricidad (ENDE)
-    url: https://www.ende.bo
+    url: http://www.ende.bo
     maxResponseTime: 5000
     __dangerous__insecure: true
   - name: Instituto Boliviano de Comercio Exterior (IBCE)
