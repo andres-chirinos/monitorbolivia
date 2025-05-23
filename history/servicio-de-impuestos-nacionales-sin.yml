@@ -1,7 +1,7 @@
 url: https://www.impuestos.gob.bo
-status: up
-code: 200
-responseTime: 1251
-lastUpdated: 2025-05-22T23:10:26.567Z
+status: down
+code: 500
+responseTime: 963
+lastUpdated: 2025-05-23T21:11:32.164Z
 startTime: 2024-11-25T02:54:45.012Z
 generator: Upptime <https://github.com/upptime/upptime>
