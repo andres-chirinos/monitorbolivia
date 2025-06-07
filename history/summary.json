@@ -416,18 +416,19 @@
     "url": "http://www.gacetaoficialdebolivia.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
-    "status": "up",
-    "uptime": "68.82%",
-    "uptimeDay": "16.80%",
-    "uptimeWeek": "6.57%",
-    "uptimeMonth": "2.94%",
-    "uptimeYear": "68.82%",
+    "status": "down",
+    "uptime": "68.84%",
+    "uptimeDay": "16.97%",
+    "uptimeWeek": "6.59%",
+    "uptimeMonth": "2.95%",
+    "uptimeYear": "68.84%",
     "time": 2456,
     "timeDay": 926,
     "timeWeek": 1075,
     "timeMonth": 991,
     "timeYear": 2456,
     "dailyMinutesDown": {
+      "2025-06-07": 2,
       "2025-06-06": 1323,
       "2025-06-05": 1396,
       "2025-06-04": 1304,
@@ -490,7 +491,7 @@
       "2025-04-08": 1370,
       "2025-04-07": 1372,
       "2025-04-06": 1364,
-      "2025-04-05": 998
+      "2025-04-05": 961
     }
   },
   {
@@ -1932,7 +1933,7 @@
     "timeMonth": 5676,
     "timeYear": 1495,
     "dailyMinutesDown": {
-      "2025-06-07": 126,
+      "2025-06-07": 131,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
