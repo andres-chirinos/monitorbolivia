@@ -146,7 +146,7 @@ sites:
     url: https://www.rree.gob.bo
     __dangerous__insecure: true
   - name: Sistema de Calidad de Aire del Gobierno Autonomo Municipal de La Paz
-    url: https://airecalidad.lapaz.bo/
+    url: http://airecalidad.lapaz.bo/
     __dangerous__insecure: true
 
 status-website:
