@@ -446,11 +446,11 @@
     "url": "http://www.gacetaoficialdebolivia.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
-    "status": "up",
+    "status": "down",
     "uptime": "77.51%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "1.83%",
-    "uptimeMonth": "3.95%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "1.95%",
+    "uptimeMonth": "3.98%",
     "uptimeYear": "77.51%",
     "time": 2225,
     "timeDay": 455,
@@ -458,7 +458,7 @@
     "timeMonth": 1201,
     "timeYear": 2225,
     "dailyMinutesDown": {
-      "2025-07-23": 1177,
+      "2025-07-23": 1179,
       "2025-07-22": 1411,
       "2025-07-21": 1408,
       "2025-07-20": 1402,
@@ -514,7 +514,7 @@
       "2025-05-31": 1360,
       "2025-05-30": 1362,
       "2025-05-29": 1284,
-      "2025-05-28": 292
+      "2025-05-28": 267
     }
   },
   {
@@ -1489,11 +1489,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "38.52%",
+    "uptime": "38.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "38.52%",
+    "uptimeYear": "38.53%",
     "time": 1356,
     "timeDay": 1239,
     "timeWeek": 1260,
@@ -2051,7 +2051,7 @@
     "timeMonth": 0,
     "timeYear": 1495,
     "dailyMinutesDown": {
-      "2025-07-23": 1180,
+      "2025-07-23": 1194,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
