@@ -15,8 +15,14 @@ sites:
   - name: Ministerio de Educación
     url: https://www.minedu.gob.bo
     __dangerous__insecure: true
-  - name: Tribunal Supremo Electoral (TSE)
+  - name: Organo Electoral Plurinacional - Tribunal Supremo Electoral (TSE)
     url: https://www.oep.org.bo
+    __dangerous__insecure: true
+  - name: Sistema de Resultador del Computo Oficial - Organo Electoral Plurinacional (OEP)
+    url: https://computo.oep.org.bo/
+    __dangerous__insecure: true
+  - name: Sistema de Resultados Preliminares (SIREPRE) - Organo Electoral Plurinacional (OEP)
+    url: https://sirepre.oep.org.bo/
     __dangerous__insecure: true
   - name: Asamblea Legislativa Plurinacional de Bolivia
     url: https://diputados.gob.bo/
