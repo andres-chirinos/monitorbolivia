@@ -43,7 +43,7 @@
     "uptime": "91.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.78%",
+    "uptimeMonth": "50.75%",
     "uptimeYear": "91.95%",
     "time": 672,
     "timeDay": 190,
@@ -51,7 +51,7 @@
     "timeMonth": 1159,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-08-28": 700,
+      "2025-08-28": 713,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -99,8 +99,8 @@
     "slug": "servicio-de-impuestos-nacionales-sin",
     "status": "up",
     "uptime": "43.59%",
-    "uptimeDay": "25.03%",
-    "uptimeWeek": "3.58%",
+    "uptimeDay": "25.95%",
+    "uptimeWeek": "3.71%",
     "uptimeMonth": "74.77%",
     "uptimeYear": "43.59%",
     "time": 1513,
@@ -505,19 +505,19 @@
     "url": "http://www.gacetaoficialdebolivia.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
-    "status": "up",
-    "uptime": "78.41%",
-    "uptimeDay": "3.10%",
-    "uptimeWeek": "3.24%",
-    "uptimeMonth": "1.50%",
-    "uptimeYear": "78.41%",
+    "status": "down",
+    "uptime": "79.30%",
+    "uptimeDay": "3.88%",
+    "uptimeWeek": "3.35%",
+    "uptimeMonth": "1.52%",
+    "uptimeYear": "79.30%",
     "time": 2074,
     "timeDay": 1239,
     "timeWeek": 1186,
     "timeMonth": 1050,
     "timeYear": 2074,
     "dailyMinutesDown": {
-      "2025-08-28": 656,
+      "2025-08-28": 658,
       "2025-08-27": 1415,
       "2025-08-26": 1342,
       "2025-08-25": 1370,
@@ -576,10 +576,7 @@
       "2025-07-03": 1376,
       "2025-07-02": 1386,
       "2025-07-01": 1398,
-      "2025-06-30": 1359,
-      "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 72
+      "2025-06-30": 768
     }
   },
   {
@@ -1628,7 +1625,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 581
+      "2025-08-28": 594
     }
   },
   {
@@ -2493,7 +2490,7 @@
     "uptimeYear": "100.00%",
     "time": 720,
     "timeDay": 550,
-    "timeWeek": 1167,
+    "timeWeek": 1202,
     "timeMonth": 761,
     "timeYear": 720,
     "dailyMinutesDown": {}
