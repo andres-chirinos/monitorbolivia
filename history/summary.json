@@ -40,18 +40,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.segip.gob.bo.ico",
     "slug": "servicio-general-de-identificacion-personal-segip",
     "status": "down",
-    "uptime": "92.04%",
+    "uptime": "92.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.64%",
-    "uptimeYear": "92.04%",
+    "uptimeMonth": "51.60%",
+    "uptimeYear": "92.03%",
     "time": 672,
     "timeDay": 190,
     "timeWeek": 201,
     "timeMonth": 1159,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-08-28": 325,
+      "2025-08-28": 343,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -97,19 +97,19 @@
     "url": "https://www.impuestos.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.impuestos.gob.bo.ico",
     "slug": "servicio-de-impuestos-nacionales-sin",
-    "status": "down",
+    "status": "up",
     "uptime": "43.54%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.80%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "74.77%",
     "uptimeYear": "43.54%",
-    "time": 1514,
-    "timeDay": 1793,
-    "timeWeek": 1565,
-    "timeMonth": 1685,
-    "timeYear": 1514,
+    "time": 1513,
+    "timeDay": 1601,
+    "timeWeek": 1546,
+    "timeMonth": 1677,
+    "timeYear": 1513,
     "dailyMinutesDown": {
-      "2025-08-28": 325,
+      "2025-08-28": 340,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -383,19 +383,19 @@
     "url": "https://diputados.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/diputados.gob.bo.ico",
     "slug": "asamblea-legislativa-plurinacional-de-bolivia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.80%",
     "time": 1964,
-    "timeDay": 1911,
-    "timeWeek": 2319,
-    "timeMonth": 2125,
+    "timeDay": 1897,
+    "timeWeek": 2270,
+    "timeMonth": 2118,
     "timeYear": 1964,
     "dailyMinutesDown": {
-      "2025-08-28": 3,
+      "2025-08-28": 18,
       "2025-08-21": 53,
       "2025-08-20": 13,
       "2025-08-01": 18,
@@ -517,7 +517,7 @@
     "timeMonth": 1045,
     "timeYear": 2075,
     "dailyMinutesDown": {
-      "2025-08-28": 283,
+      "2025-08-28": 301,
       "2025-08-27": 1415,
       "2025-08-26": 1342,
       "2025-08-25": 1370,
@@ -1232,12 +1232,12 @@
     "slug": "banco-central-de-bolivia-bcb",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "92.44%",
+    "uptimeDay": "93.48%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.89%",
     "time": 1465,
-    "timeDay": 971,
+    "timeDay": 1034,
     "timeWeek": 1102,
     "timeMonth": 1291,
     "timeYear": 1465,
@@ -1608,7 +1608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 206
+      "2025-08-28": 224
     }
   },
   {
@@ -1628,7 +1628,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 206
+      "2025-08-28": 224
     }
   },
   {
@@ -1648,7 +1648,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 205
+      "2025-08-28": 224
     }
   },
   {
@@ -1668,7 +1668,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 205
+      "2025-08-28": 223
     }
   },
   {
@@ -1849,12 +1849,12 @@
     "slug": "ministerio-de-obras-publicas-servicios-y-vivienda",
     "status": "up",
     "uptime": "96.12%",
-    "uptimeDay": "99.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "96.12%",
     "time": 6573,
-    "timeDay": 7384,
+    "timeDay": 7083,
     "timeWeek": 7278,
     "timeMonth": 6928,
     "timeYear": 6573,
@@ -2242,11 +2242,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ende.bo.ico",
     "slug": "empresa-nacional-de-electricidad-ende",
     "status": "up",
-    "uptime": "63.10%",
+    "uptime": "63.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "63.10%",
+    "uptimeYear": "63.11%",
     "time": 1341,
     "timeDay": 519,
     "timeWeek": 1332,
