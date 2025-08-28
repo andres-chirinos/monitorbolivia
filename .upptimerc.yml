@@ -104,6 +104,18 @@ sites:
   - name: Instituto Nacional de Estadística (INE)
     url: https://www.ine.gob.bo
     __dangerous__insecure: true
+  - name: Geoportal - INE
+    url: http://geoportal.ine.gob.bo
+    __dangerous__insecure: true
+  - name: Fichas Censo - INE
+    url: http://fichas.ine.gob.bo
+    __dangerous__insecure: true
+  - name: Censo de Poblacion y Vivienda 2024 - INE
+    url: http://cpv2024.ine.gob.bo
+    __dangerous__insecure: true
+  - name: REDATAM - INE
+    url: http://redatam.ine.gob.bo
+    __dangerous__insecure: true
   - name: Ministerio de Defensa
     url: https://www.mindef.gob.bo
     __dangerous__insecure: true
