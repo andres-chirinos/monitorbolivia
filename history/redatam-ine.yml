@@ -1,7 +1,7 @@
 url: http://redatam.ine.gob.bo
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-29T03:39:39.467Z
+status: up
+code: 200
+responseTime: 631
+lastUpdated: 2025-08-29T13:36:31.423Z
 startTime: 2025-08-28T02:44:03.518Z
 generator: Upptime <https://github.com/upptime/upptime>
