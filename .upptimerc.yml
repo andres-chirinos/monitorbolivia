@@ -91,6 +91,12 @@ sites:
   - name: Ministerio de Salud y Deportes
     url: https://www.minsalud.gob.bo
     __dangerous__insecure: true
+  - name: Ministerio de Trabajo
+    url: https://www.mintrabajo.gob.bo/
+    __dangerous__insecure: 
+  - name: Ministerio de Gobierno
+    url: https://www.mingobierno.gob.bo/
+    __dangerous__insecure: true
   - name: Policía Boliviana
     url: https://www.policia.bo
     __dangerous__insecure: true
