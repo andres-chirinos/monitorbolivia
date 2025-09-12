@@ -1,7 +1,7 @@
 url: https://www.policia.bo
-status: up
-code: 200
-responseTime: 3382
-lastUpdated: 2025-09-12T04:24:11.423Z
+status: down
+code: 500
+responseTime: 2043
+lastUpdated: 2025-09-12T05:21:41.877Z
 startTime: 2024-11-25T02:55:54.344Z
 generator: Upptime <https://github.com/upptime/upptime>
