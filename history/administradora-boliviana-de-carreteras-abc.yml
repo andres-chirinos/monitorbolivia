@@ -1,7 +1,7 @@
 url: https://www.viasbolivia.gob.bo/
-status: up
+status: degraded
 code: 200
-responseTime: 2101
-lastUpdated: 2025-10-03T23:10:29.364Z
+responseTime: 16320
+lastUpdated: 2025-10-04T17:08:32.048Z
 startTime: 2024-11-25T02:55:34.768Z
 generator: Upptime <https://github.com/upptime/upptime>
