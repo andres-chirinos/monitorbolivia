@@ -53,7 +53,7 @@
     "timeMonth": 251,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-10-05": 1366,
+      "2025-10-05": 1378,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -560,7 +560,7 @@
     "timeMonth": 1001,
     "timeYear": 1899,
     "dailyMinutesDown": {
-      "2025-10-05": 1295,
+      "2025-10-05": 1307,
       "2025-10-04": 1427,
       "2025-10-03": 836,
       "2025-10-02": 1440,
@@ -2684,16 +2684,16 @@
     "url": "http://airecalidad.lapaz.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/airecalidad.lapaz.bo.ico",
     "slug": "sistema-de-calidad-de-aire-del-gobierno-autonomo-municipal-de-la-paz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
-    "timeDay": 554,
-    "timeWeek": 614,
-    "timeMonth": 669,
+    "timeDay": 567,
+    "timeWeek": 613,
+    "timeMonth": 668,
     "timeYear": 694,
     "dailyMinutesDown": {}
   }
