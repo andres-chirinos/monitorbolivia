@@ -1,7 +1,7 @@
 url: http://cpv2024.ine.gob.bo
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-26T23:13:21.139Z
+status: up
+code: 200
+responseTime: 2257
+lastUpdated: 2025-10-27T13:10:46.903Z
 startTime: 2025-08-28T02:44:02.368Z
 generator: Upptime <https://github.com/upptime/upptime>
