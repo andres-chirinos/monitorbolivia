@@ -50,7 +50,7 @@
     "uptime": "75.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.71%",
+    "uptimeMonth": "87.97%",
     "uptimeYear": "74.96%",
     "time": 674,
     "timeDay": 1177,
@@ -175,14 +175,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.impuestos.gob.bo.ico",
     "slug": "servicio-de-impuestos-nacionales-sin",
     "status": "up",
-    "uptime": "57.86%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "97.14%",
+    "uptime": "57.87%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "97.42%",
-    "uptimeYear": "58.95%",
+    "uptimeYear": "58.97%",
     "time": 1423,
-    "timeDay": 1245,
-    "timeWeek": 1324,
+    "timeDay": 1313,
+    "timeWeek": 1342,
     "timeMonth": 1275,
     "timeYear": 1423,
     "dailyMinutesDown": {
@@ -376,8 +376,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   },
   {
@@ -619,18 +618,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "down",
-    "uptime": "86.56%",
+    "uptime": "86.54%",
     "uptimeDay": "3.35%",
     "uptimeWeek": "3.53%",
     "uptimeMonth": "4.46%",
-    "uptimeYear": "86.31%",
+    "uptimeYear": "86.29%",
     "time": 1707,
     "timeDay": 1013,
     "timeWeek": 729,
     "timeMonth": 792,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2025-12-01": 1346,
+      "2025-12-02": 66,
+      "2025-12-01": 1392,
       "2025-11-30": 1372,
       "2025-11-29": 1358,
       "2025-11-28": 1427,
@@ -753,11 +753,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procuraduria.gob.bo.ico",
     "slug": "procuraduria-general-del-estado",
     "status": "up",
-    "uptime": "57.03%",
+    "uptime": "57.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "58.10%",
+    "uptimeYear": "58.12%",
     "time": 1660,
     "timeDay": 1182,
     "timeWeek": 1068,
@@ -940,8 +940,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   },
   {
@@ -1041,8 +1040,7 @@
       "2025-03-26": 12,
       "2025-03-06": 13,
       "2025-01-23": 36,
-      "2024-12-03": 120,
-      "2024-12-02": 286
+      "2024-12-03": 120
     }
   },
   {
@@ -1052,12 +1050,12 @@
     "slug": "sistema-de-universidades-bolivianas-ceub",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "93.33%",
+    "uptimeDay": "94.45%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "99.67%",
     "time": 1845,
-    "timeDay": 1430,
+    "timeDay": 1502,
     "timeWeek": 1508,
     "timeMonth": 1771,
     "timeYear": 1852,
@@ -1096,15 +1094,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.viasbolivia.gob.bo.ico",
     "slug": "administradora-boliviana-de-carreteras-abc",
     "status": "up",
-    "uptime": "65.49%",
+    "uptime": "65.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "66.72%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "66.74%",
     "time": 3070,
     "timeDay": 1493,
     "timeWeek": 1432,
-    "timeMonth": 1770,
+    "timeMonth": 1761,
     "timeYear": 3076,
     "dailyMinutesDown": {
       "2025-11-27": 71,
@@ -1272,8 +1270,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   },
   {
@@ -1329,7 +1326,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancounion.com.bo.ico",
     "slug": "banco-union",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
@@ -1565,8 +1562,7 @@
       "2025-05-06": 12,
       "2025-02-27": 26,
       "2025-01-21": 106,
-      "2025-01-20": 209,
-      "2024-12-02": 12
+      "2025-01-20": 209
     }
   },
   {
@@ -1942,11 +1938,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fichas.ine.gob.bo.ico",
     "slug": "fichas-censo-ine",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "96.83%",
+    "uptimeYear": "96.84%",
     "time": 1273,
     "timeDay": 1258,
     "timeWeek": 1242,
@@ -2025,11 +2021,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "59.77%",
+    "uptime": "59.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "60.89%",
+    "uptimeYear": "60.92%",
     "time": 1363,
     "timeDay": 1580,
     "timeWeek": 1302,
@@ -2191,8 +2187,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   },
   {
@@ -2263,8 +2258,7 @@
       "2025-01-10": 15,
       "2024-12-31": 37,
       "2024-12-05": 502,
-      "2024-12-03": 217,
-      "2024-12-02": 643
+      "2024-12-03": 217
     }
   },
   {
@@ -2780,18 +2774,19 @@
     "url": "https://www.ibce.org.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibce.org.bo.ico",
     "slug": "instituto-boliviano-de-comercio-exterior-ibce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.49%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.77%",
-    "time": 898,
-    "timeDay": 813,
-    "timeWeek": 739,
-    "timeMonth": 748,
-    "timeYear": 899,
+    "time": 897,
+    "timeDay": 808,
+    "timeWeek": 730,
+    "timeMonth": 744,
+    "timeYear": 898,
     "dailyMinutesDown": {
+      "2025-12-02": 2,
       "2025-12-01": 121,
       "2025-11-30": 39,
       "2025-11-29": 26,
