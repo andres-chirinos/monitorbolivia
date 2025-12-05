@@ -50,7 +50,7 @@
     "uptime": "75.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.62%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "74.96%",
     "time": 675,
     "timeDay": 998,
@@ -376,8 +376,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
@@ -624,14 +623,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.07%",
     "uptimeMonth": "4.45%",
-    "uptimeYear": "85.81%",
+    "uptimeYear": "85.80%",
     "time": 1701,
     "timeDay": 0,
     "timeWeek": 671,
     "timeMonth": 781,
     "timeYear": 1699,
     "dailyMinutesDown": {
-      "2025-12-04": 1415,
+      "2025-12-05": 4,
+      "2025-12-04": 1440,
       "2025-12-03": 1385,
       "2025-12-02": 1397,
       "2025-12-01": 1392,
@@ -756,7 +756,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procuraduria.gob.bo.ico",
     "slug": "procuraduria-general-del-estado",
     "status": "up",
-    "uptime": "57.37%",
+    "uptime": "57.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -940,8 +940,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
@@ -1048,12 +1047,12 @@
     "slug": "sistema-de-universidades-bolivianas-ceub",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "99.11%",
     "uptimeWeek": "97.42%",
     "uptimeMonth": "96.66%",
     "uptimeYear": "99.66%",
     "time": 1836,
-    "timeDay": 1483,
+    "timeDay": 1912,
     "timeWeek": 1458,
     "timeMonth": 1731,
     "timeYear": 1842,
@@ -1268,8 +1267,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
@@ -1496,18 +1494,19 @@
     "url": "https://www.univida.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.univida.bo.ico",
     "slug": "seguros-y-reaseguros-personales-univida",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.28%",
-    "time": 1301,
-    "timeDay": 865,
-    "timeWeek": 866,
-    "timeMonth": 898,
-    "timeYear": 1306,
+    "time": 1349,
+    "timeDay": 10193,
+    "timeWeek": 3198,
+    "timeMonth": 1430,
+    "timeYear": 1355,
     "dailyMinutesDown": {
+      "2025-12-05": 3,
       "2025-11-18": 109,
       "2025-10-16": 113,
       "2025-08-08": 829,
@@ -1597,7 +1596,7 @@
     "timeDay": 1236,
     "timeWeek": 5448,
     "timeMonth": 4300,
-    "timeYear": 2357,
+    "timeYear": 2354,
     "dailyMinutesDown": {
       "2025-12-02": 22,
       "2025-11-30": 114,
@@ -1722,18 +1721,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mingobierno.gob.bo.ico",
     "slug": "ministerio-de-gobierno",
     "status": "up",
-    "uptime": "97.61%",
-    "uptimeDay": "10.75%",
-    "uptimeWeek": "87.25%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "97.61%",
+    "uptime": "97.59%",
+    "uptimeDay": "8.75%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "97.59%",
     "time": 1615,
     "timeDay": 1045,
     "timeWeek": 1229,
     "timeMonth": 1454,
     "timeYear": 1615,
     "dailyMinutesDown": {
-      "2025-12-04": 1285,
+      "2025-12-05": 5,
+      "2025-12-04": 1309,
       "2025-11-15": 119,
       "2025-11-10": 891,
       "2025-11-09": 73,
@@ -2023,11 +2023,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "60.09%",
+    "uptime": "60.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "61.72%",
+    "uptimeYear": "61.73%",
     "time": 1361,
     "timeDay": 1185,
     "timeWeek": 1300,
@@ -2186,8 +2186,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   },
   {
@@ -2256,8 +2255,7 @@
       "2025-02-04": 783,
       "2025-02-03": 64,
       "2025-01-10": 15,
-      "2024-12-31": 37,
-      "2024-12-05": 502
+      "2024-12-31": 37
     }
   },
   {
@@ -2774,12 +2772,12 @@
     "slug": "instituto-boliviano-de-comercio-exterior-ibce",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "99.10%",
     "uptimeWeek": "94.48%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "99.72%",
     "time": 890,
-    "timeDay": 757,
+    "timeDay": 758,
     "timeWeek": 711,
     "timeMonth": 725,
     "timeYear": 890,
