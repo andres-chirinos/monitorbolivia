@@ -176,7 +176,7 @@
     "slug": "servicio-de-impuestos-nacionales-sin",
     "status": "up",
     "uptime": "58.36%",
-    "uptimeDay": "87.59%",
+    "uptimeDay": "88.03%",
     "uptimeWeek": "96.17%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "60.26%",
@@ -376,8 +376,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -420,8 +419,7 @@
       "2025-01-10": 15,
       "2024-12-31": 57,
       "2024-12-13": 212,
-      "2024-12-08": 45,
-      "2024-12-07": 319
+      "2024-12-08": 45
     }
   },
   {
@@ -631,7 +629,8 @@
     "timeMonth": 819,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2025-12-06": 1416,
+      "2025-12-07": 2,
+      "2025-12-06": 1427,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1385,
@@ -940,8 +939,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -1046,19 +1044,19 @@
     "url": "https://www.ceub.edu.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.ceub.edu.bo.ico",
     "slug": "sistema-de-universidades-bolivianas-ceub",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.32%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "99.63%",
     "time": 1822,
-    "timeDay": 1272,
-    "timeWeek": 1377,
+    "timeDay": 1319,
+    "timeWeek": 1386,
     "timeMonth": 1686,
     "timeYear": 1828,
     "dailyMinutesDown": {
-      "2025-12-06": 69,
+      "2025-12-06": 79,
       "2025-12-05": 80,
       "2025-12-04": 13,
       "2025-12-03": 59,
@@ -1268,8 +1266,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -1444,12 +1441,12 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.81%",
     "time": 5462,
     "timeDay": 2004,
-    "timeWeek": 5862,
+    "timeWeek": 5242,
     "timeMonth": 6567,
     "timeYear": 5491,
     "dailyMinutesDown": {
@@ -2004,11 +2001,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/redatam.ine.gob.bo.ico",
     "slug": "redatam-ine",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 672,
     "timeDay": 607,
     "timeWeek": 653,
@@ -2030,12 +2027,12 @@
     "status": "up",
     "uptime": "60.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "62.27%",
     "time": 1361,
     "timeDay": 1291,
-    "timeWeek": 1326,
+    "timeWeek": 1296,
     "timeMonth": 1340,
     "timeYear": 1361,
     "dailyMinutesDown": {
@@ -2189,8 +2186,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -2199,7 +2195,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oopp.gob.bo.ico",
     "slug": "ministerio-de-obras-publicas-servicios-y-vivienda",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2616,8 +2612,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 620,
       "2025-01-07": 12,
-      "2024-12-14": 20,
-      "2024-12-07": 15
+      "2024-12-14": 20
     }
   },
   {
@@ -2776,19 +2771,20 @@
     "url": "https://www.ibce.org.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibce.org.bo.ico",
     "slug": "instituto-boliviano-de-comercio-exterior-ibce",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.69%",
     "time": 886,
-    "timeDay": 752,
-    "timeWeek": 736,
-    "timeMonth": 735,
+    "timeDay": 768,
+    "timeWeek": 739,
+    "timeMonth": 736,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-12-06": 91,
+      "2025-12-07": 1,
+      "2025-12-06": 100,
       "2025-12-05": 88,
       "2025-12-04": 13,
       "2025-12-03": 60,
@@ -2835,12 +2831,12 @@
     "status": "up",
     "uptime": "97.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
+    "uptimeWeek": "99.32%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "97.38%",
     "time": 3762,
     "timeDay": 3781,
-    "timeWeek": 3306,
+    "timeWeek": 3323,
     "timeMonth": 3062,
     "timeYear": 3752,
     "dailyMinutesDown": {
