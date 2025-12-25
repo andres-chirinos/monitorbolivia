@@ -174,10 +174,10 @@
     "url": "https://www.impuestos.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.impuestos.gob.bo.ico",
     "slug": "servicio-de-impuestos-nacionales-sin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "82.25%",
-    "uptimeWeek": "96.60%",
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "96.57%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "97.40%",
     "time": 1402,
@@ -186,7 +186,7 @@
     "timeMonth": 1305,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2025-12-25": 181,
+      "2025-12-25": 184,
       "2025-12-24": 75,
       "2025-12-23": 26,
       "2025-12-20": 16,
@@ -252,8 +252,7 @@
       "2025-05-30": 12,
       "2025-05-28": 16,
       "2025-05-26": 15,
-      "2025-05-23": 18,
-      "2025-05-15": 11
+      "2025-05-23": 18
     }
   },
   {
@@ -501,7 +500,7 @@
     "timeMonth": 823,
     "timeYear": 1643,
     "dailyMinutesDown": {
-      "2025-12-25": 338,
+      "2025-12-25": 356,
       "2025-12-24": 1312,
       "2025-12-23": 1419,
       "2025-12-22": 1396,
@@ -1889,11 +1888,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "61.74%",
+    "uptime": "61.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.85%",
-    "uptimeYear": "66.84%",
+    "uptimeYear": "66.85%",
     "time": 1355,
     "timeDay": 1203,
     "timeWeek": 1242,
