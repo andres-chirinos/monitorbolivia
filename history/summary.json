@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.segip.gob.bo.ico",
     "slug": "servicio-general-de-identificacion-personal-segip",
     "status": "up",
-    "uptime": "76.91%",
+    "uptime": "76.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -176,12 +176,12 @@
     "slug": "servicio-de-impuestos-nacionales-sin",
     "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "47.50%",
+    "uptimeDay": "58.17%",
     "uptimeWeek": "91.14%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "97.33%",
     "time": 1396,
-    "timeDay": 1183,
+    "timeDay": 1196,
     "timeWeek": 1203,
     "timeMonth": 1295,
     "timeYear": 1396,
@@ -391,7 +391,7 @@
     "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "98.73%",
     "time": 2965,
     "timeDay": 4505,
@@ -427,8 +427,7 @@
       "2025-02-11": 105,
       "2025-01-10": 202,
       "2025-01-03": 17,
-      "2024-12-31": 23,
-      "2024-12-26": 13
+      "2024-12-31": 23
     }
   },
   {
@@ -479,18 +478,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "down",
-    "uptime": "86.25%",
-    "uptimeDay": "4.49%",
+    "uptime": "86.23%",
+    "uptimeDay": "3.53%",
     "uptimeWeek": "4.10%",
     "uptimeMonth": "4.20%",
-    "uptimeYear": "85.09%",
+    "uptimeYear": "85.06%",
     "time": 1661,
     "timeDay": 1133,
     "timeWeek": 856,
     "timeMonth": 828,
     "timeYear": 1642,
     "dailyMinutesDown": {
-      "2025-12-25": 1361,
+      "2025-12-26": 139,
+      "2025-12-25": 1390,
       "2025-12-24": 1312,
       "2025-12-23": 1419,
       "2025-12-22": 1396,
@@ -618,11 +618,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procuraduria.gob.bo.ico",
     "slug": "procuraduria-general-del-estado",
     "status": "up",
-    "uptime": "59.64%",
+    "uptime": "59.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.68%",
+    "uptimeYear": "64.71%",
     "time": 1630,
     "timeDay": 1028,
     "timeWeek": 1612,
@@ -781,8 +781,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -957,11 +956,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.viasbolivia.gob.bo.ico",
     "slug": "administradora-boliviana-de-carreteras-abc",
     "status": "up",
-    "uptime": "67.53%",
+    "uptime": "67.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "73.24%",
+    "uptimeYear": "73.27%",
     "time": 3026,
     "timeDay": 1338,
     "timeWeek": 1729,
@@ -1112,8 +1111,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -1441,7 +1439,7 @@
     "uptimeWeek": "99.17%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "98.81%",
-    "time": 2456,
+    "time": 2475,
     "timeDay": 1172,
     "timeWeek": 3677,
     "timeMonth": 4279,
@@ -1574,11 +1572,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mingobierno.gob.bo.ico",
     "slug": "ministerio-de-gobierno",
     "status": "up",
-    "uptime": "96.84%",
+    "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.72%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.85%",
     "time": 1585,
     "timeDay": 1127,
     "timeWeek": 1234,
@@ -1687,8 +1685,7 @@
       "2024-12-30": 1415,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 613
+      "2024-12-27": 1440
     }
   },
   {
@@ -1824,11 +1821,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpv2024.ine.gob.bo.ico",
     "slug": "censo-de-poblacion-y-vivienda-2024-ine",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.55%",
     "time": 2221,
     "timeDay": 1780,
     "timeWeek": 1911,
@@ -1876,11 +1873,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "61.82%",
+    "uptime": "61.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.85%",
-    "uptimeYear": "67.05%",
+    "uptimeYear": "67.08%",
     "time": 1355,
     "timeDay": 1190,
     "timeWeek": 1250,
@@ -2021,8 +2018,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -2324,14 +2320,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cns.gob.bo.ico",
     "slug": "caja-nacional-de-salud-cns",
     "status": "up",
-    "uptime": "78.88%",
+    "uptime": "78.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "uptimeWeek": "99.18%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "77.10%",
     "time": 2669,
     "timeDay": 1340,
-    "timeWeek": 1385,
+    "timeWeek": 1376,
     "timeMonth": 2118,
     "timeYear": 2759,
     "dailyMinutesDown": {
@@ -2478,7 +2474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ende.bo.ico",
     "slug": "empresa-nacional-de-electricidad-ende",
     "status": "up",
-    "uptime": "74.25%",
+    "uptime": "74.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2721,8 +2717,7 @@
       "2025-05-22": 30,
       "2025-05-02": 15,
       "2025-02-26": 83,
-      "2025-02-13": 48,
-      "2024-12-26": 29
+      "2025-02-13": 48
     }
   },
   {
