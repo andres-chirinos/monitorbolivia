@@ -48,8 +48,8 @@
     "status": "down",
     "uptime": "76.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.95%",
-    "uptimeMonth": "80.66%",
+    "uptimeWeek": "15.83%",
+    "uptimeMonth": "80.63%",
     "uptimeYear": "73.35%",
     "time": 680,
     "timeDay": 137,
@@ -57,7 +57,8 @@
     "timeMonth": 834,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-01-10": 1428,
+      "2026-01-11": 1,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -473,19 +474,20 @@
     "url": "http://www.gacetaoficialdebolivia.gob.bo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
-    "status": "up",
-    "uptime": "85.97%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "2.58%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "84.17%",
+    "status": "down",
+    "uptime": "86.10%",
+    "uptimeDay": "0.90%",
+    "uptimeWeek": "2.69%",
+    "uptimeMonth": "1.23%",
+    "uptimeYear": "84.31%",
     "time": 1636,
     "timeDay": 986,
     "timeWeek": 987,
     "timeMonth": 880,
     "timeYear": 1547,
     "dailyMinutesDown": {
-      "2026-01-10": 1426,
+      "2026-01-11": 1,
+      "2026-01-10": 1428,
       "2026-01-09": 1393,
       "2026-01-08": 1440,
       "2026-01-07": 1421,
@@ -543,8 +545,7 @@
       "2025-11-16": 1424,
       "2025-11-15": 1404,
       "2025-11-14": 1416,
-      "2025-11-13": 1249,
-      "2025-11-12": 756
+      "2025-11-13": 1249
     }
   },
   {
@@ -614,7 +615,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procuraduria.gob.bo.ico",
     "slug": "procuraduria-general-del-estado",
     "status": "up",
-    "uptime": "61.20%",
+    "uptime": "61.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -761,8 +762,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -952,7 +952,7 @@
     "uptime": "68.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.92%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "77.59%",
     "time": 2959,
     "timeDay": 2120,
@@ -1092,8 +1092,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -1988,8 +1987,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
