@@ -1,7 +1,7 @@
 url: https://www.uto.edu.bo
-status: up
-code: 200
-responseTime: 1318
-lastUpdated: 2026-01-12T23:10:52.617Z
+status: down
+code: 502
+responseTime: 1309
+lastUpdated: 2026-01-13T18:45:31.517Z
 startTime: 2024-11-25T02:55:26.828Z
 generator: Upptime <https://github.com/upptime/upptime>
