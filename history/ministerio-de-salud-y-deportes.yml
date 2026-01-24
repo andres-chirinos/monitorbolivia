@@ -1,7 +1,7 @@
 url: https://www.minsalud.gob.bo
-status: up
-code: 200
-responseTime: 1341
-lastUpdated: 2026-01-23T23:14:21.667Z
+status: down
+code: 500
+responseTime: 899
+lastUpdated: 2026-01-24T16:00:00.565Z
 startTime: 2024-11-25T02:55:53.001Z
 generator: Upptime <https://github.com/upptime/upptime>
