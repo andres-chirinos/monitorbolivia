@@ -39,8 +39,7 @@
       "2025-03-27": 13,
       "2025-03-18": 31,
       "2025-03-07": 33,
-      "2025-02-22": 13,
-      "2025-02-13": 28
+      "2025-02-22": 13
     }
   },
   {
@@ -49,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.segip.gob.bo.ico",
     "slug": "servicio-general-de-identificacion-personal-segip",
     "status": "down",
-    "uptime": "70.72%",
+    "uptime": "70.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.31%",
+    "uptimeYear": "64.27%",
     "time": 670,
     "timeDay": 211,
     "timeWeek": 222,
     "timeMonth": 209,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2026-02-12": 1432,
+      "2026-02-13": 194,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -517,18 +517,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "down",
-    "uptime": "87.34%",
+    "uptime": "87.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "6.95%",
     "uptimeMonth": "3.08%",
-    "uptimeYear": "84.57%",
+    "uptimeYear": "84.53%",
     "time": 1584,
     "timeDay": 0,
     "timeWeek": 952,
     "timeMonth": 875,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2026-02-12": 1432,
+      "2026-02-13": 194,
+      "2026-02-12": 1440,
       "2026-02-11": 1314,
       "2026-02-10": 1249,
       "2026-02-09": 1346,
@@ -653,11 +654,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.procuraduria.gob.bo.ico",
     "slug": "procuraduria-general-del-estado",
     "status": "up",
-    "uptime": "64.02%",
+    "uptime": "64.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "78.04%",
+    "uptimeYear": "78.07%",
     "time": 1645,
     "timeDay": 1082,
     "timeWeek": 1380,
@@ -770,8 +771,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -830,8 +830,7 @@
       "2025-02-24": 38,
       "2025-02-23": 15,
       "2025-02-21": 14,
-      "2025-02-20": 13,
-      "2025-02-13": 110
+      "2025-02-20": 13
     }
   },
   {
@@ -874,12 +873,12 @@
     "slug": "sistema-de-universidades-bolivianas-ceub",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "87.11%",
+    "uptimeDay": "87.72%",
     "uptimeWeek": "93.79%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "99.29%",
     "time": 1779,
-    "timeDay": 1421,
+    "timeDay": 1312,
     "timeWeek": 1695,
     "timeMonth": 1860,
     "timeYear": 1786,
@@ -944,11 +943,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.viasbolivia.gob.bo.ico",
     "slug": "administradora-boliviana-de-carreteras-abc",
     "status": "up",
-    "uptime": "71.05%",
+    "uptime": "71.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "86.60%",
+    "uptimeYear": "86.64%",
     "time": 2882,
     "timeDay": 2142,
     "timeWeek": 2190,
@@ -1058,8 +1057,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -1527,11 +1525,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mingobierno.gob.bo.ico",
     "slug": "ministerio-de-gobierno",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.84%",
     "time": 1524,
     "timeDay": 1118,
     "timeWeek": 1367,
@@ -1835,11 +1833,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "65.98%",
+    "uptime": "65.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "80.42%",
+    "uptimeYear": "80.46%",
     "time": 1377,
     "timeDay": 1363,
     "timeWeek": 1452,
@@ -1933,8 +1931,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -1947,7 +1944,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.58%",
     "time": 5113,
     "timeDay": 1452,
     "timeWeek": 1525,
@@ -1993,8 +1990,7 @@
       "2025-02-17": 760,
       "2025-02-16": 1227,
       "2025-02-15": 634,
-      "2025-02-14": 13,
-      "2025-02-13": 767
+      "2025-02-14": 13
     }
   },
   {
@@ -2215,11 +2211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cns.gob.bo.ico",
     "slug": "caja-nacional-de-salud-cns",
     "status": "up",
-    "uptime": "81.19%",
+    "uptime": "81.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "81.86%",
+    "uptimeYear": "81.89%",
     "time": 2537,
     "timeDay": 1313,
     "timeWeek": 1714,
@@ -2326,8 +2322,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -2485,12 +2480,12 @@
     "slug": "instituto-boliviano-de-comercio-exterior-ibce",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "94.97%",
+    "uptimeDay": "95.57%",
     "uptimeWeek": "95.63%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "99.38%",
     "time": 841,
-    "timeDay": 746,
+    "timeDay": 713,
     "timeWeek": 753,
     "timeMonth": 774,
     "timeYear": 816,
@@ -2556,18 +2551,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mmaya.gob.bo.ico",
     "slug": "ministerio-de-medio-ambiente-y-agua",
     "status": "down",
-    "uptime": "89.97%",
+    "uptime": "89.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.80%",
+    "uptimeYear": "87.77%",
     "time": 3520,
     "timeDay": 949,
     "timeWeek": 1091,
     "timeMonth": 1088,
     "timeYear": 3404,
     "dailyMinutesDown": {
-      "2026-02-12": 1434,
+      "2026-02-13": 196,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -2633,8 +2629,7 @@
       "2025-05-26": 12,
       "2025-05-22": 30,
       "2025-05-02": 15,
-      "2025-02-26": 83,
-      "2025-02-13": 48
+      "2025-02-26": 83
     }
   },
   {
