@@ -1,7 +1,7 @@
 url: https://www.ine.gob.bo
-status: down
-code: 500
-responseTime: 825
-lastUpdated: 2026-02-22T20:40:18.329Z
+status: up
+code: 200
+responseTime: 3261
+lastUpdated: 2026-02-22T21:36:34.607Z
 startTime: 2024-11-25T02:56:00.210Z
 generator: Upptime <https://github.com/upptime/upptime>
