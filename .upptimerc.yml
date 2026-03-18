@@ -177,7 +177,7 @@ status-website:
   links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/style.css
-  cname: monitorbolivia.andreschirinos.tech
+  baseUrl: /monitorbolivia
   logoUrl: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/logo.png
   name: Monitor de Estado de Paginas de Bolivia
   description: Monitoreo en tiempo real del estado de las páginas web de Bolivia.
@@ -187,7 +187,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/icon.svg
   navbar:
     - title: Sobre nosotros
-      href: https://andreschirinos.tech/
+      href: https://andreschirinos.com/
     - title: Repositorio de GitHub
       href: https://github.com/$OWNER/$REPO
 
