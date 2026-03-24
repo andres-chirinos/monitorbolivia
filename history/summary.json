@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.anh.gob.bo.ico",
     "slug": "agencia-nacional-de-hidrocarburos-anh",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.30%",
+    "uptimeMonth": "64.22%",
     "uptimeYear": "96.89%",
     "time": 1689,
     "timeDay": 1704,
@@ -16,7 +16,8 @@
     "timeMonth": 2063,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2026-03-23": 1406,
+      "2026-03-24": 1,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -60,14 +61,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "53.63%",
+    "uptimeYear": "53.62%",
     "time": 685,
     "timeDay": 146,
     "timeWeek": 196,
     "timeMonth": 212,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2026-03-23": 1406,
+      "2026-03-24": 1,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -261,19 +263,19 @@
     "url": "https://www.impuestos.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.impuestos.gob.bo.ico",
     "slug": "servicio-de-impuestos-nacionales-sin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "89.13%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "99.06%",
-    "time": 1438,
-    "timeDay": 0,
-    "timeWeek": 1560,
-    "timeMonth": 1669,
-    "timeYear": 1438,
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "99.05%",
+    "time": 1439,
+    "timeDay": 1515,
+    "timeWeek": 1556,
+    "timeMonth": 1666,
+    "timeYear": 1439,
     "dailyMinutesDown": {
-      "2026-03-23": 4,
+      "2026-03-23": 35,
       "2026-03-22": 585,
       "2026-03-21": 375,
       "2026-03-20": 86,
@@ -568,18 +570,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "down",
-    "uptime": "84.25%",
+    "uptime": "84.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.15%",
     "uptimeMonth": "12.44%",
-    "uptimeYear": "79.12%",
+    "uptimeYear": "79.11%",
     "time": 1471,
     "timeDay": 0,
     "timeWeek": 1887,
     "timeMonth": 829,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2026-03-23": 1406,
+      "2026-03-24": 1,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -675,7 +678,7 @@
     "time": 3052,
     "timeDay": 4298,
     "timeWeek": 3283,
-    "timeMonth": 3144,
+    "timeMonth": 3198,
     "timeYear": 3160,
     "dailyMinutesDown": {
       "2026-03-23": 66,
@@ -715,7 +718,7 @@
     "time": 1649,
     "timeDay": 1203,
     "timeWeek": 1229,
-    "timeMonth": 1415,
+    "timeMonth": 1412,
     "timeYear": 1628,
     "dailyMinutesDown": {
       "2025-10-03": 15,
@@ -733,11 +736,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.70%",
+    "uptimeYear": "88.71%",
     "time": 1634,
     "timeDay": 1115,
     "timeWeek": 1210,
-    "timeMonth": 1735,
+    "timeMonth": 1762,
     "timeYear": 1634,
     "dailyMinutesDown": {
       "2026-02-17": 59,
@@ -809,8 +812,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -827,7 +829,7 @@
     "time": 2465,
     "timeDay": 1956,
     "timeWeek": 8885,
-    "timeMonth": 4031,
+    "timeMonth": 4099,
     "timeYear": 2378,
     "dailyMinutesDown": {
       "2026-03-21": 42,
@@ -877,7 +879,7 @@
     "time": 4303,
     "timeDay": 1461,
     "timeWeek": 3937,
-    "timeMonth": 5316,
+    "timeMonth": 5289,
     "timeYear": 4618,
     "dailyMinutesDown": {
       "2026-01-14": 56,
@@ -909,7 +911,7 @@
     "time": 1766,
     "timeDay": 1572,
     "timeWeek": 1614,
-    "timeMonth": 1816,
+    "timeMonth": 1822,
     "timeYear": 1774,
     "dailyMinutesDown": {
       "2026-03-20": 49,
@@ -979,7 +981,7 @@
     "time": 2784,
     "timeDay": 2358,
     "timeWeek": 1981,
-    "timeMonth": 1847,
+    "timeMonth": 1861,
     "timeYear": 2813,
     "dailyMinutesDown": {
       "2026-03-13": 124,
@@ -1082,7 +1084,7 @@
     "time": 1493,
     "timeDay": 1073,
     "timeWeek": 1255,
-    "timeMonth": 1276,
+    "timeMonth": 1271,
     "timeYear": 1509,
     "dailyMinutesDown": {
       "2026-01-25": 16,
@@ -1122,7 +1124,7 @@
     "time": 1218,
     "timeDay": 981,
     "timeWeek": 1042,
-    "timeMonth": 1126,
+    "timeMonth": 1130,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2026-03-22": 62,
@@ -1165,8 +1167,7 @@
       "2025-04-06": 13,
       "2025-04-04": 20,
       "2025-03-30": 20,
-      "2025-03-29": 38,
-      "2025-03-24": 13
+      "2025-03-29": 38
     }
   },
   {
@@ -1183,7 +1184,7 @@
     "time": 1505,
     "timeDay": 1009,
     "timeWeek": 1359,
-    "timeMonth": 1447,
+    "timeMonth": 1456,
     "timeYear": 1517,
     "dailyMinutesDown": {
       "2026-01-12": 93,
@@ -1222,7 +1223,7 @@
     "time": 5392,
     "timeDay": 6701,
     "timeWeek": 4207,
-    "timeMonth": 4806,
+    "timeMonth": 4925,
     "timeYear": 5825,
     "dailyMinutesDown": {
       "2026-03-04": 48,
@@ -1259,7 +1260,7 @@
     "time": 255,
     "timeDay": 192,
     "timeWeek": 221,
-    "timeMonth": 229,
+    "timeMonth": 231,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-12-29": 19
@@ -1279,7 +1280,7 @@
     "time": 1317,
     "timeDay": 756,
     "timeWeek": 1090,
-    "timeMonth": 909,
+    "timeMonth": 913,
     "timeYear": 1283,
     "dailyMinutesDown": {
       "2026-01-22": 20,
@@ -1557,7 +1558,7 @@
     "time": 4050,
     "timeDay": 2439,
     "timeWeek": 3127,
-    "timeMonth": 2941,
+    "timeMonth": 2784,
     "timeYear": 4084,
     "dailyMinutesDown": {
       "2026-01-26": 27,
@@ -1655,7 +1656,7 @@
     "time": 3345,
     "timeDay": 1140,
     "timeWeek": 2831,
-    "timeMonth": 3863,
+    "timeMonth": 3788,
     "timeYear": 3415,
     "dailyMinutesDown": {}
   },
@@ -1673,7 +1674,7 @@
     "time": 2779,
     "timeDay": 2494,
     "timeWeek": 2602,
-    "timeMonth": 2957,
+    "timeMonth": 2667,
     "timeYear": 2603,
     "dailyMinutesDown": {
       "2026-03-17": 278,
@@ -1714,7 +1715,7 @@
     "time": 1399,
     "timeDay": 1248,
     "timeWeek": 1594,
-    "timeMonth": 1560,
+    "timeMonth": 1559,
     "timeYear": 1399,
     "dailyMinutesDown": {
       "2026-03-08": 317,
@@ -1740,7 +1741,7 @@
     "time": 1004,
     "timeDay": 505,
     "timeWeek": 619,
-    "timeMonth": 829,
+    "timeMonth": 835,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2026-03-19": 52,
@@ -1781,7 +1782,7 @@
     "time": 2376,
     "timeDay": 1846,
     "timeWeek": 3009,
-    "timeMonth": 2582,
+    "timeMonth": 2589,
     "timeYear": 2376,
     "dailyMinutesDown": {
       "2026-03-21": 15,
@@ -1812,18 +1813,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/redatam.ine.gob.bo.ico",
     "slug": "redatam-ine",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "58.64%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.06%",
+    "uptimeDay": "56.21%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.06%",
     "time": 679,
     "timeDay": 671,
     "timeWeek": 668,
-    "timeMonth": 692,
+    "timeMonth": 691,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2026-03-23": 595,
+      "2026-03-24": 2,
+      "2026-03-23": 628,
       "2026-03-08": 255,
       "2026-02-19": 194,
       "2026-02-18": 38,
@@ -1844,11 +1846,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.07%",
+    "uptimeYear": "91.08%",
     "time": 1386,
     "timeDay": 1249,
     "timeWeek": 1465,
-    "timeMonth": 1471,
+    "timeMonth": 1477,
     "timeYear": 1386,
     "dailyMinutesDown": {
       "2026-02-21": 187,
@@ -1900,8 +1902,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -1918,7 +1919,7 @@
     "time": 4856,
     "timeDay": 1165,
     "timeWeek": 1350,
-    "timeMonth": 1432,
+    "timeMonth": 1431,
     "timeYear": 4334,
     "dailyMinutesDown": {
       "2026-02-08": 27,
@@ -1963,7 +1964,7 @@
     "time": 981,
     "timeDay": 912,
     "timeWeek": 1084,
-    "timeMonth": 1138,
+    "timeMonth": 1142,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2026-02-17": 59,
@@ -2009,7 +2010,7 @@
     "time": 2111,
     "timeDay": 1145,
     "timeWeek": 3139,
-    "timeMonth": 3629,
+    "timeMonth": 3712,
     "timeYear": 2398,
     "dailyMinutesDown": {
       "2026-02-23": 821,
@@ -2050,7 +2051,7 @@
     "time": 2258,
     "timeDay": 3033,
     "timeWeek": 3241,
-    "timeMonth": 3416,
+    "timeMonth": 3406,
     "timeYear": 2265,
     "dailyMinutesDown": {}
   },
@@ -2068,7 +2069,7 @@
     "time": 772,
     "timeDay": 587,
     "timeWeek": 777,
-    "timeMonth": 741,
+    "timeMonth": 747,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2026-02-17": 58,
@@ -2115,7 +2116,7 @@
     "time": 1394,
     "timeDay": 1296,
     "timeWeek": 983,
-    "timeMonth": 1039,
+    "timeMonth": 1040,
     "timeYear": 1198,
     "dailyMinutesDown": {}
   },
@@ -2133,7 +2134,7 @@
     "time": 8085,
     "timeDay": 4903,
     "timeWeek": 5352,
-    "timeMonth": 5691,
+    "timeMonth": 5689,
     "timeYear": 8450,
     "dailyMinutesDown": {
       "2025-12-30": 261,
@@ -2172,7 +2173,7 @@
     "time": 2491,
     "timeDay": 1435,
     "timeWeek": 3542,
-    "timeMonth": 2218,
+    "timeMonth": 2233,
     "timeYear": 2599,
     "dailyMinutesDown": {
       "2026-03-17": 71,
@@ -2238,8 +2239,7 @@
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
-      "2025-03-25": 1440,
-      "2025-03-24": 1440
+      "2025-03-25": 1440
     }
   },
   {
@@ -2256,7 +2256,7 @@
     "time": 1796,
     "timeDay": 2644,
     "timeWeek": 4272,
-    "timeMonth": 3705,
+    "timeMonth": 3715,
     "timeYear": 2089,
     "dailyMinutesDown": {}
   },
@@ -2274,7 +2274,7 @@
     "time": 1143,
     "timeDay": 476,
     "timeWeek": 754,
-    "timeMonth": 808,
+    "timeMonth": 818,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2026-02-18": 50,
@@ -2405,7 +2405,7 @@
     "time": 877,
     "timeDay": 816,
     "timeWeek": 986,
-    "timeMonth": 1181,
+    "timeMonth": 1171,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2026-03-21": 92,
@@ -2465,18 +2465,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mmaya.gob.bo.ico",
     "slug": "ministerio-de-medio-ambiente-y-agua",
     "status": "down",
-    "uptime": "82.72%",
+    "uptime": "82.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "77.15%",
+    "uptimeYear": "77.14%",
     "time": 3362,
     "timeDay": 909,
     "timeWeek": 1216,
-    "timeMonth": 1133,
+    "timeMonth": 1142,
     "timeYear": 3133,
     "dailyMinutesDown": {
-      "2026-03-23": 1408,
+      "2026-03-24": 3,
+      "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
@@ -2597,7 +2598,7 @@
     "time": 1530,
     "timeDay": 637,
     "timeWeek": 772,
-    "timeMonth": 942,
+    "timeMonth": 930,
     "timeYear": 1540,
     "dailyMinutesDown": {}
   },
