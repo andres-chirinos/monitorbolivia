@@ -172,6 +172,9 @@ sites:
   - name: Sistema de Calidad de Aire del Gobierno Autonomo Municipal de La Paz
     url: http://airecalidad.lapaz.bo/
     __dangerous__insecure: true
+  - name: GeoBolivia
+    url: http://geo.gob.bo/
+    __dangerous__insecure: true
 
 status-website:
   links:
