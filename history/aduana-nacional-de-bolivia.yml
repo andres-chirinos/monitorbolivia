@@ -1,7 +1,7 @@
 url: https://www.aduana.gob.bo
-status: down
-code: 503
-responseTime: 6359
-lastUpdated: 2026-04-04T07:08:01.200Z
+status: up
+code: 200
+responseTime: 1245
+lastUpdated: 2026-04-04T13:11:54.787Z
 startTime: 2024-11-25T02:55:48.881Z
 generator: Upptime <https://github.com/upptime/upptime>
