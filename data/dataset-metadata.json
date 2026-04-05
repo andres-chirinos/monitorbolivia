@@ -1,0 +1,31 @@
+{
+    "title": "Monitor Web Bolivia",
+    "id":"sociest/monitor-web-bolivia",
+    "subtitle": "Github Actions ETL Pipeline",
+    "description": "Info about bolivian web pages.",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/",
+        }
+    ],
+    "resources": [
+        {
+            "path": "summary.parquet",
+            "description": "Advertiser data from webs status.",
+            "name": "summary",
+            "profile": "tabular-data-resource",
+            "title": "Summary Table",
+            "format": "format",
+            "encoding": "utf-8",
+        }
+    ],
+    "keywords": [
+        "web"
+    ],
+    "name": "monitor-web-bolivia",
+    "homepage": "https://sociest.org",
+    "version": "1.0.0",
+    "contributors": [{"title": "Andres Chirinos", "role": "author"}],
+}
