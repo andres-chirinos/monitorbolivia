@@ -6,33 +6,43 @@ sites:
   - name: Agencia Nacional de Hidrocarburos (ANH)
     url: https://www.anh.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Servicio General de Identificación Personal (SEGIP)
     url: https://www.segip.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Servicio de Impuestos Nacionales (SIN)
     url: https://www.impuestos.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Educación
     url: https://www.minedu.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Organo Electoral Plurinacional - Tribunal Supremo Electoral (TSE)
     url: https://www.oep.org.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Sistema de Resultador del Computo Oficial - Organo Electoral Plurinacional (OEP)
     url: https://computo.oep.org.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Sistema de Resultados Preliminares (SIREPRE) - Organo Electoral Plurinacional (OEP)
     url: https://sirepre.oep.org.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Asamblea Legislativa Plurinacional de Bolivia
     url: https://diputados.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Cámara de Senadores
     url: https://www.senado.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Cámara de Diputados
     url: https://www.diputados.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Gaceta Oficial del Estado Plurinacional de Bolivia
     url: http://www.gacetaoficialdebolivia.gob.bo/
     __dangerous__insecure: true
@@ -40,9 +50,11 @@ sites:
   - name: Defensoría del Pueblo
     url: https://www.defensoria.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Contraloría General del Estado
     url: https://www.contraloria.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Procuraduría General del Estado
     url: https://www.procuraduria.gob.bo
     __dangerous__insecure: true
@@ -50,12 +62,15 @@ sites:
   - name: Universidad Mayor de San Andrés (UMSA)
     url: https://www.umsa.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Universidad Técnica de Oruro (UTO)
     url: https://www.uto.edu.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Sistema de Universidades Bolivianas (CEUB)
     url: https://www.ceub.edu.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Administradora Boliviana de Carreteras (ABC)
     url: https://www.viasbolivia.gob.bo/
     __dangerous__insecure: true
@@ -67,39 +82,51 @@ sites:
   - name: Banco Unión
     url: https://www.bancounion.com.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Banco Central de Bolivia (BCB)
     url: https://www.bcb.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Bolivia TV (BTV)
     url: https://www.boliviatv.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Boliviana de Aviación (BoA)
     url: https://www.boa.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Seguros y Reaseguros Personales UNIVIDA
     url: https://www.univida.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)
     url: https://www.ypfb.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Autoridad de Supervisión del Sistema Financiero (ASFI)
     url: https://www.asfi.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Aduana Nacional de Bolivia
     url: https://www.aduana.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Salud y Deportes
     url: https://www.minsalud.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Trabajo
     url: https://www.mintrabajo.gob.bo/
-    __dangerous__insecure: 
+    __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Gobierno
     url: https://www.mingobierno.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Policía Boliviana
     url: https://www.policia.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Justicia y Transparencia Institucional
     url: https://www.justicia.gob.bo
     __dangerous__insecure: true
@@ -107,21 +134,27 @@ sites:
   - name: Autoridad de Fiscalización y Control de Pensiones y Seguros (APS)
     url: https://www.aps.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Instituto Nacional de Estadística (INE)
     url: https://www.ine.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Geoportal - INE
     url: http://geoportal.ine.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Fichas Censo - INE
     url: http://fichas.ine.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Censo de Poblacion y Vivienda 2024 - INE
     url: http://cpv2024.ine.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: REDATAM - INE
     url: http://redatam.ine.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Defensa
     url: https://www.mindef.gob.bo
     __dangerous__insecure: true
@@ -129,54 +162,70 @@ sites:
   - name: Ministerio de Obras Públicas, Servicios y Vivienda
     url: https://www.oopp.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Dirección General de Aeronáutica Civil (DGAC)
     url: https://www.dgac.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Servicio Nacional de Propiedad Intelectual (SENAPI)
     url: https://www.senapi.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Autoridad de Fiscalización de Electricidad y Tecnología Nuclear (AETN)
     url: https://www.aetn.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Mi Teleférico
     url: https://www.miteleferico.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Servicio Nacional de Meteorología e Hidrología (SENAMHI)
     url: https://www.senamhi.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Agencia Boliviana Espacial (ABE)
     url: https://www.abe.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Caja Nacional de Salud (CNS)
     url: https://www.cns.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT)
     url: https://www.att.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Empresa Nacional de Electricidad (ENDE)
     url: http://www.ende.bo
-    maxResponseTime: 5000
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Instituto Boliviano de Comercio Exterior (IBCE)
     url: https://www.ibce.org.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Medio Ambiente y Agua
     url: https://www.mmaya.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Agencia para el Desarrollo de la Sociedad de la Información en Bolivia (ADSIB)
     url: https://www.adsib.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Ministerio de Relaciones Exteriores
     url: https://www.rree.gob.bo
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: Sistema de Calidad de Aire del Gobierno Autonomo Municipal de La Paz
     url: http://airecalidad.lapaz.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
   - name: GeoBolivia
     url: http://geo.gob.bo/
     __dangerous__insecure: true
+    maxResponseTime: 5000
 
 status-website:
+  theme: dark
   links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/andres-chirinos/monitorbolivia/master/assets/style.css
