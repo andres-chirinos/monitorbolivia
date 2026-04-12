@@ -1,7 +1,7 @@
 url: https://www.senamhi.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 1071
-lastUpdated: 2026-04-11T23:25:02.908Z
+responseTime: 27337
+lastUpdated: 2026-04-12T20:54:09.916Z
 startTime: 2024-11-25T02:56:46.694Z
 generator: Upptime <https://github.com/upptime/upptime>
