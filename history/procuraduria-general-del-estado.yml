@@ -1,7 +1,7 @@
 url: https://www.procuraduria.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 1340
-lastUpdated: 2026-04-15T23:34:15.712Z
+responseTime: 6965
+lastUpdated: 2026-04-16T00:02:01.357Z
 startTime: 2024-11-25T02:55:23.570Z
 generator: Upptime <https://github.com/upptime/upptime>
