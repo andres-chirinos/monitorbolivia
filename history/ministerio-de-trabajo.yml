@@ -1,7 +1,7 @@
 url: https://www.mintrabajo.gob.bo/
-status: up
+status: degraded
 code: 200
-responseTime: 2581
-lastUpdated: 2026-04-15T23:34:49.646Z
+responseTime: 18123
+lastUpdated: 2026-04-16T11:45:23.335Z
 startTime: 2025-09-10T03:43:38.112Z
 generator: Upptime <https://github.com/upptime/upptime>
