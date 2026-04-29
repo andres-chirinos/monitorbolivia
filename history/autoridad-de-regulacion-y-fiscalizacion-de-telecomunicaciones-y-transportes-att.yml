@@ -1,7 +1,7 @@
 url: https://www.att.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 3108
-lastUpdated: 2026-04-28T23:45:43.001Z
+responseTime: 15234
+lastUpdated: 2026-04-29T00:14:31.046Z
 startTime: 2024-11-25T02:56:54.908Z
 generator: Upptime <https://github.com/upptime/upptime>
