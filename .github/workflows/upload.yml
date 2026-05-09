@@ -25,11 +25,8 @@ jobs:
 
       - name: Ejecutar notebook
         env:
-          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
           KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
         run: |
-          pip install nbconvert pyarrow
-          jupyter nbconvert --to notebook --execute pipeline/index.ipynb --output index_executed.ipynb
+          python pipelone/run_pipeline.py
 
       
