@@ -8,7 +8,7 @@
     "uptime": "92.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.55%",
+    "uptimeMonth": "73.61%",
     "uptimeYear": "89.24%",
     "time": 1739,
     "timeDay": 2000,
@@ -85,14 +85,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "41.90%",
+    "uptimeYear": "41.89%",
     "time": 730,
     "timeDay": 168,
     "timeWeek": 169,
     "timeMonth": 187,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2026-05-12": 1434,
+      "2026-05-13": 19,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -315,11 +316,11 @@
     "url": "https://www.impuestos.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.impuestos.gob.bo.ico",
     "slug": "servicio-de-impuestos-nacionales-sin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.04%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "98.89%",
     "time": 1469,
     "timeDay": 1614,
@@ -327,6 +328,7 @@
     "timeMonth": 1602,
     "timeYear": 1469,
     "dailyMinutesDown": {
+      "2026-05-13": 3,
       "2026-05-11": 425,
       "2026-05-06": 277,
       "2026-05-01": 85,
@@ -401,7 +403,7 @@
       "2025-12-29": 21,
       "2025-12-28": 15,
       "2025-12-27": 234,
-      "2025-12-26": 450
+      "2025-12-26": 400
     }
   },
   {
@@ -630,14 +632,15 @@
     "uptimeDay": "5.19%",
     "uptimeWeek": "1.46%",
     "uptimeMonth": "3.40%",
-    "uptimeYear": "71.12%",
+    "uptimeYear": "71.11%",
     "time": 1091,
     "timeDay": 1352,
     "timeWeek": 791,
     "timeMonth": 1045,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2026-05-12": 1360,
+      "2026-05-13": 20,
+      "2026-05-12": 1365,
       "2026-05-11": 1440,
       "2026-05-10": 1368,
       "2026-05-09": 1440,
@@ -1462,14 +1465,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "29.97%",
-    "uptimeYear": "93.61%",
+    "uptimeYear": "93.60%",
     "time": 1353,
     "timeDay": 1432,
     "timeWeek": 1442,
     "timeMonth": 1347,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2026-05-12": 1436,
+      "2026-05-13": 21,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -1542,12 +1546,12 @@
     "slug": "ministerio-de-trabajo",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.22%",
     "time": 3977,
-    "timeDay": 2432,
+    "timeDay": 2662,
     "timeWeek": 2420,
     "timeMonth": 2999,
     "timeYear": 3977,
@@ -1688,8 +1692,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 889,
       "2025-05-22": 997,
-      "2025-05-21": 924,
-      "2025-05-13": 59
+      "2025-05-21": 924
     }
   },
   {
@@ -1934,7 +1937,7 @@
     "uptime": "71.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.04%",
+    "uptimeMonth": "94.09%",
     "uptimeYear": "98.48%",
     "time": 1428,
     "timeDay": 3521,
@@ -2151,8 +2154,7 @@
       "2025-08-15": 125,
       "2025-07-09": 24,
       "2025-05-26": 36,
-      "2025-05-14": 27,
-      "2025-05-13": 20
+      "2025-05-14": 27
     }
   },
   {
@@ -2392,8 +2394,7 @@
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
-      "2025-05-14": 1440,
-      "2025-05-13": 1440
+      "2025-05-14": 1440
     }
   },
   {
@@ -2485,14 +2486,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.45%",
+    "uptimeYear": "63.44%",
     "time": 3043,
     "timeDay": 1419,
     "timeWeek": 1130,
     "timeMonth": 1142,
     "timeYear": 2776,
     "dailyMinutesDown": {
-      "2026-05-12": 1437,
+      "2026-05-13": 22,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -2730,7 +2732,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-12": 1437,
+      "2026-05-13": 22,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
