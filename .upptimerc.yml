@@ -223,6 +223,10 @@ sites:
     url: http://geo.gob.bo/
     __dangerous__insecure: true
     maxResponseTime: 5000
+  - name: Crt.sh
+    url: https://crt.sh/
+    __dangerous__insecure: true
+    maxResponseTime: 5000
 
 status-website:
   theme: dark
