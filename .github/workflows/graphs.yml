@@ -13,7 +13,6 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-
 name: Graphs CI
 on:
   schedule:
@@ -32,7 +31,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate graphs
-        uses: upptime/uptime-monitor@v1.38.0
+        uses: upptime/uptime-monitor@v1.43.9
         with:
           command: "graphs"
         env:
