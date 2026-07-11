@@ -1,7 +1,7 @@
 url: https://www.cns.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 1356
-lastUpdated: 2026-06-17T00:10:50.839Z
+responseTime: 5363
+lastUpdated: 2026-07-11T18:40:15.892Z
 startTime: 2024-11-25T02:56:53.507Z
 generator: Upptime <https://github.com/upptime/upptime>
