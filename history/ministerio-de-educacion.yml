@@ -1,7 +1,7 @@
 url: https://www.minedu.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 3275
-lastUpdated: 2026-07-16T23:48:15.714Z
+responseTime: 5028
+lastUpdated: 2026-07-18T00:59:13.553Z
 startTime: 2024-11-25T02:54:46.585Z
 generator: Upptime <https://github.com/upptime/upptime>
