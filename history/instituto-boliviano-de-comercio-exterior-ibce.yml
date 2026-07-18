@@ -1,7 +1,7 @@
 url: https://www.ibce.org.bo
-status: up
-code: 200
-responseTime: 1256
-lastUpdated: 2026-07-18T10:00:44.241Z
+status: down
+code: 415
+responseTime: 164
+lastUpdated: 2026-07-18T15:47:34.491Z
 startTime: 2024-11-25T02:56:57.133Z
 generator: Upptime <https://github.com/upptime/upptime>
