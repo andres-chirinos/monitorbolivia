@@ -1,7 +1,7 @@
 url: https://crt.sh/
-status: up
+status: degraded
 code: 200
-responseTime: 423
-lastUpdated: 2026-07-19T09:32:13.485Z
+responseTime: 14063
+lastUpdated: 2026-07-19T11:02:57.777Z
 startTime: 2026-06-07T16:44:39.558Z
 generator: Upptime <https://github.com/upptime/upptime>
