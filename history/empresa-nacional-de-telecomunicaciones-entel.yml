@@ -1,7 +1,7 @@
 url: https://www.entel.bo
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-31T16:56:11.189Z
+status: degraded
+code: 200
+responseTime: 11105
+lastUpdated: 2026-07-31T20:03:24.382Z
 startTime: 2024-11-25T02:55:37.357Z
 generator: Upptime <https://github.com/upptime/upptime>
