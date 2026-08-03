@@ -1,7 +1,7 @@
 url: http://www.ende.bo
-status: up
+status: degraded
 code: 200
-responseTime: 1742
-lastUpdated: 2026-08-02T23:52:49.114Z
+responseTime: 5562
+lastUpdated: 2026-08-03T11:02:41.631Z
 startTime: 2024-11-25T02:56:55.886Z
 generator: Upptime <https://github.com/upptime/upptime>
