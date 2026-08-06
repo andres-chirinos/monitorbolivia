@@ -1,7 +1,7 @@
 url: https://www.senapi.gob.bo/
-status: up
+status: degraded
 code: 200
-responseTime: 1551
-lastUpdated: 2026-08-05T23:52:21.917Z
+responseTime: 6111
+lastUpdated: 2026-08-06T12:16:45.493Z
 startTime: 2024-11-25T02:56:40.728Z
 generator: Upptime <https://github.com/upptime/upptime>
