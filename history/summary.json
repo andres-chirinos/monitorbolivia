@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 2481,
     "timeMonth": 2587,
-    "timeYear": 1844,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2025-08-15": 110,
       "2025-08-25": 40,
@@ -82,10 +82,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.segip.gob.bo.ico",
     "slug": "servicio-general-de-identificacion-personal-segip",
     "status": "up",
-    "uptime": "55.26%",
+    "uptime": "55.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.40%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "25.74%",
     "time": 745,
     "timeDay": 0,
@@ -386,7 +386,7 @@
     "timeDay": 1271,
     "timeWeek": 1495,
     "timeMonth": 1514,
-    "timeYear": 1480,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2026-01-06": 30,
       "2026-01-07": 75,
@@ -493,7 +493,7 @@
     "timeDay": 0,
     "timeWeek": 3052,
     "timeMonth": 3332,
-    "timeYear": 2667,
+    "timeYear": 2669,
     "dailyMinutesDown": {
       "2025-08-20": 12,
       "2025-10-03": 13,
@@ -590,7 +590,7 @@
     "timeDay": 0,
     "timeWeek": 2606,
     "timeMonth": 2778,
-    "timeYear": 2406,
+    "timeYear": 2409,
     "dailyMinutesDown": {
       "2025-08-20": 13,
       "2025-08-21": 53,
@@ -626,7 +626,7 @@
     "timeDay": 0,
     "timeWeek": 845,
     "timeMonth": 788,
-    "timeYear": 1914,
+    "timeYear": 1906,
     "dailyMinutesDown": {
       "2025-08-21": 43,
       "2025-08-22": 198,
@@ -653,17 +653,17 @@
     "url": "https://www.diputados.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.diputados.bo.ico",
     "slug": "camara-de-diputados",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.63%",
-    "uptimeDay": "71.94%",
-    "uptimeWeek": "89.89%",
-    "uptimeMonth": "75.14%",
-    "uptimeYear": "97.78%",
-    "time": 3137,
-    "timeDay": 4508,
-    "timeWeek": 4626,
-    "timeMonth": 4553,
-    "timeYear": 3239,
+    "uptimeDay": "70.46%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "75.09%",
+    "uptimeYear": "97.77%",
+    "time": 3146,
+    "timeDay": 4659,
+    "timeWeek": 4750,
+    "timeMonth": 4579,
+    "timeYear": 3250,
     "dailyMinutesDown": {
       "2025-08-20": 29,
       "2025-08-21": 53,
@@ -691,7 +691,7 @@
       "2026-08-05": 147,
       "2026-08-04": 14,
       "2026-08-07": 153,
-      "2026-08-08": 404
+      "2026-08-08": 425
     }
   },
   {
@@ -704,12 +704,12 @@
     "uptimeDay": "8.94%",
     "uptimeWeek": "7.29%",
     "uptimeMonth": "5.83%",
-    "uptimeYear": "55.42%",
+    "uptimeYear": "55.41%",
     "time": 1260,
     "timeDay": 3881,
     "timeWeek": 3684,
     "timeMonth": 5861,
-    "timeYear": 1272,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2026-02-20": 599,
       "2026-02-21": 1440,
@@ -880,7 +880,7 @@
       "2026-08-07": 1370,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
-      "2026-08-08": 1229
+      "2026-08-08": 1269
     }
   },
   {
@@ -898,7 +898,7 @@
     "timeDay": 0,
     "timeWeek": 3964,
     "timeMonth": 3163,
-    "timeYear": 3273,
+    "timeYear": 3274,
     "dailyMinutesDown": {
       "2025-08-09": 103,
       "2025-10-03": 26,
@@ -941,7 +941,7 @@
     "timeDay": 0,
     "timeWeek": 2149,
     "timeMonth": 1999,
-    "timeYear": 1576,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2025-09-23": 118,
       "2025-09-22": 12,
@@ -963,7 +963,7 @@
     "timeDay": 0,
     "timeWeek": 1000,
     "timeMonth": 1180,
-    "timeYear": 1577,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2025-08-20": 1144,
       "2025-08-19": 1440,
@@ -1005,7 +1005,7 @@
     "timeDay": 0,
     "timeWeek": 2799,
     "timeMonth": 2413,
-    "timeYear": 2390,
+    "timeYear": 2392,
     "dailyMinutesDown": {
       "2025-08-20": 15,
       "2025-09-19": 24,
@@ -1044,7 +1044,7 @@
     "timeDay": 4101,
     "timeWeek": 3609,
     "timeMonth": 3622,
-    "timeYear": 3839,
+    "timeYear": 3826,
     "dailyMinutesDown": {
       "2025-08-20": 14,
       "2025-09-07": 30,
@@ -1079,7 +1079,7 @@
     "uptime": "95.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.24%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "91.91%",
     "time": 1839,
     "timeDay": 0,
@@ -1190,7 +1190,7 @@
     "timeDay": 0,
     "timeWeek": 1607,
     "timeMonth": 1631,
-    "timeYear": 2371,
+    "timeYear": 2373,
     "dailyMinutesDown": {
       "2025-08-20": 42,
       "2025-08-21": 46,
@@ -1261,7 +1261,7 @@
     "timeDay": 0,
     "timeWeek": 2727,
     "timeMonth": 6534,
-    "timeYear": 2280,
+    "timeYear": 2283,
     "dailyMinutesDown": {
       "2025-09-09": 48,
       "2025-09-16": 13,
@@ -1314,7 +1314,7 @@
     "timeDay": 425,
     "timeWeek": 1327,
     "timeMonth": 1049,
-    "timeYear": 1124,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2025-08-14": 19,
       "2025-08-17": 13,
@@ -1416,17 +1416,17 @@
     "url": "https://www.boliviatv.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.boliviatv.bo.ico",
     "slug": "bolivia-tv-btv",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "69.56%",
-    "uptimeWeek": "72.71%",
-    "uptimeMonth": "75.40%",
+    "uptimeDay": "67.91%",
+    "uptimeWeek": "72.51%",
+    "uptimeMonth": "75.35%",
     "uptimeYear": "97.50%",
-    "time": 5118,
-    "timeDay": 6006,
-    "timeWeek": 5487,
-    "timeMonth": 5060,
-    "timeYear": 4784,
+    "time": 5121,
+    "timeDay": 5863,
+    "timeWeek": 5460,
+    "timeMonth": 5051,
+    "timeYear": 4774,
     "dailyMinutesDown": {
       "2025-09-06": 14,
       "2025-10-03": 13,
@@ -1479,7 +1479,7 @@
       "2026-08-05": 292,
       "2026-08-06": 334,
       "2026-08-07": 206,
-      "2026-08-08": 404
+      "2026-08-08": 428
     }
   },
   {
@@ -1536,7 +1536,7 @@
     "uptime": "94.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.46%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "91.41%",
     "time": 1886,
     "timeDay": 0,
@@ -1632,7 +1632,7 @@
     "timeDay": 0,
     "timeWeek": 1629,
     "timeMonth": 1631,
-    "timeYear": 2643,
+    "timeYear": 2645,
     "dailyMinutesDown": {
       "2025-09-16": 27,
       "2025-09-19": 71,
@@ -1688,7 +1688,7 @@
     "timeDay": 0,
     "timeWeek": 6569,
     "timeMonth": 2803,
-    "timeYear": 1425,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2025-08-18": 20,
       "2025-09-29": 13,
@@ -1835,7 +1835,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.policia.bo.ico",
     "slug": "policia-boliviana",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
@@ -1844,7 +1844,7 @@
     "timeDay": 0,
     "timeWeek": 2580,
     "timeMonth": 2591,
-    "timeYear": 3678,
+    "timeYear": 3680,
     "dailyMinutesDown": {
       "2025-08-20": 340,
       "2025-08-19": 122,
@@ -1918,7 +1918,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1046,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   },
   {
@@ -1933,10 +1933,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3108,
-    "timeDay": 4786,
+    "timeDay": 0,
     "timeWeek": 2669,
     "timeMonth": 2268,
-    "timeYear": 2970,
+    "timeYear": 2975,
     "dailyMinutesDown": {}
   },
   {
@@ -1954,7 +1954,7 @@
     "timeDay": 0,
     "timeWeek": 2539,
     "timeMonth": 2569,
-    "timeYear": 2922,
+    "timeYear": 2923,
     "dailyMinutesDown": {
       "2025-08-18": 599,
       "2025-08-29": 588,
@@ -2160,7 +2160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "75.30%",
+    "uptime": "75.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2214,7 +2214,7 @@
     "timeDay": 0,
     "timeWeek": 1430,
     "timeMonth": 1392,
-    "timeYear": 2329,
+    "timeYear": 2315,
     "dailyMinutesDown": {
       "2025-08-19": 26,
       "2025-08-20": 19,
@@ -2273,7 +2273,7 @@
     "timeDay": 4400,
     "timeWeek": 3963,
     "timeMonth": 3461,
-    "timeYear": 2895,
+    "timeYear": 2900,
     "dailyMinutesDown": {
       "2025-09-09": 17,
       "2025-09-11": 12,
@@ -2326,7 +2326,7 @@
     "timeDay": 0,
     "timeWeek": 2619,
     "timeMonth": 2436,
-    "timeYear": 2461,
+    "timeYear": 2463,
     "dailyMinutesDown": {}
   },
   {
@@ -2344,7 +2344,7 @@
     "timeDay": 0,
     "timeWeek": 926,
     "timeMonth": 829,
-    "timeYear": 829,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2025-08-15": 125,
       "2025-09-30": 26,
@@ -2386,7 +2386,7 @@
     "timeDay": 0,
     "timeWeek": 3500,
     "timeMonth": 3624,
-    "timeYear": 1416,
+    "timeYear": 1417,
     "dailyMinutesDown": {}
   },
   {
@@ -2397,14 +2397,14 @@
     "status": "up",
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.64%",
     "time": 7742,
     "timeDay": 0,
     "timeWeek": 4254,
     "timeMonth": 7046,
-    "timeYear": 5258,
+    "timeYear": 5259,
     "dailyMinutesDown": {
       "2025-08-23": 19,
       "2025-09-16": 11,
@@ -2433,7 +2433,7 @@
     "timeDay": 0,
     "timeWeek": 1770,
     "timeMonth": 1809,
-    "timeYear": 2191,
+    "timeYear": 2183,
     "dailyMinutesDown": {
       "2025-09-06": 12,
       "2025-09-07": 67,
@@ -2490,10 +2490,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2292,
-    "timeDay": 1601,
+    "timeDay": 1348,
     "timeWeek": 1651,
     "timeMonth": 1573,
-    "timeYear": 2680,
+    "timeYear": 2685,
     "dailyMinutesDown": {}
   },
   {
@@ -2502,7 +2502,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ende.bo.ico",
     "slug": "empresa-nacional-de-electricidad-ende",
     "status": "up",
-    "uptime": "82.83%",
+    "uptime": "82.84%",
     "uptimeDay": "68.18%",
     "uptimeWeek": "82.68%",
     "uptimeMonth": "85.14%",
@@ -2511,7 +2511,7 @@
     "timeDay": 5827,
     "timeWeek": 4985,
     "timeMonth": 4508,
-    "timeYear": 1998,
+    "timeYear": 2002,
     "dailyMinutesDown": {
       "2025-08-13": 24,
       "2025-08-15": 76,
@@ -2556,7 +2556,7 @@
     "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.52%",
+    "uptimeMonth": "90.61%",
     "uptimeYear": "90.86%",
     "time": 846,
     "timeDay": 0,
@@ -2665,12 +2665,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.45%",
+    "uptimeYear": "41.44%",
     "time": 2722,
     "timeDay": 0,
     "timeWeek": 1017,
     "timeMonth": 874,
-    "timeYear": 2230,
+    "timeYear": 2229,
     "dailyMinutesDown": {
       "2025-08-18": 34,
       "2025-09-04": 24,
@@ -2686,7 +2686,7 @@
       "2025-12-17": 1341,
       "2025-12-16": 1440,
       "2025-12-15": 268,
-      "2026-08-08": 1360,
+      "2026-08-08": 1399,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -2913,7 +2913,7 @@
     "timeDay": 700,
     "timeWeek": 749,
     "timeMonth": 814,
-    "timeYear": 1221,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -2931,7 +2931,7 @@
     "timeDay": 0,
     "timeWeek": 1045,
     "timeMonth": 997,
-    "timeYear": 999,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-09-18": 15,
       "2025-10-28": 21,
@@ -2979,7 +2979,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1360,
+      "2026-08-08": 1399,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -3115,19 +3115,18 @@
     "url": "https://crt.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/crt.sh.ico",
     "slug": "crt-sh",
-    "status": "up",
-    "uptime": "77.96%",
-    "uptimeDay": "35.76%",
-    "uptimeWeek": "43.41%",
-    "uptimeMonth": "54.90%",
-    "uptimeYear": "77.96%",
-    "time": 5673,
-    "timeDay": 6328,
-    "timeWeek": 5709,
-    "timeMonth": 6108,
-    "timeYear": 5673,
+    "status": "degraded",
+    "uptime": "78.02%",
+    "uptimeDay": "37.57%",
+    "uptimeWeek": "43.50%",
+    "uptimeMonth": "55.01%",
+    "uptimeYear": "78.02%",
+    "time": 5792,
+    "timeDay": 8704,
+    "timeWeek": 6312,
+    "timeMonth": 6242,
+    "timeYear": 5792,
     "dailyMinutesDown": {
-      "2026-07-14": 50,
       "2026-07-15": 954,
       "2026-07-16": 790,
       "2026-07-17": 707,
@@ -3152,7 +3151,7 @@
       "2026-08-05": 968,
       "2026-08-06": 826,
       "2026-08-07": 782,
-      "2026-08-08": 856
+      "2026-08-08": 858
     }
   }
 ]
