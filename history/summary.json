@@ -85,7 +85,7 @@
     "uptime": "55.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.57%",
+    "uptimeMonth": "90.60%",
     "uptimeYear": "25.74%",
     "time": 745,
     "timeDay": 0,
@@ -655,9 +655,9 @@
     "slug": "camara-de-diputados",
     "status": "degraded",
     "uptime": "98.67%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "92.56%",
-    "uptimeMonth": "76.03%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "76.00%",
     "uptimeYear": "97.85%",
     "time": 3098,
     "timeDay": 5198,
@@ -691,7 +691,7 @@
       "2026-08-05": 147,
       "2026-08-04": 14,
       "2026-08-07": 153,
-      "2026-08-08": 12
+      "2026-08-08": 25
     }
   },
   {
@@ -883,7 +883,7 @@
       "2026-08-07": 1370,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
-      "2026-08-08": 115
+      "2026-08-08": 128
     }
   },
   {
@@ -1081,7 +1081,7 @@
     "uptime": "95.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.40%",
+    "uptimeMonth": "89.43%",
     "uptimeYear": "91.91%",
     "time": 1839,
     "timeDay": 0,
@@ -1256,7 +1256,7 @@
     "status": "up",
     "uptime": "98.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.84%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "74.03%",
     "uptimeYear": "97.62%",
     "time": 2126,
@@ -1535,7 +1535,7 @@
     "uptime": "94.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.62%",
+    "uptimeMonth": "91.65%",
     "uptimeYear": "91.41%",
     "time": 1886,
     "timeDay": 0,
@@ -2263,10 +2263,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senapi.gob.bo.ico",
     "slug": "servicio-nacional-de-propiedad-intelectual-senapi",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "83.22%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "94.09%",
+    "uptime": "98.96%",
+    "uptimeDay": "82.29%",
+    "uptimeWeek": "87.13%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "98.45%",
     "time": 2432,
     "timeDay": 4437,
@@ -2307,7 +2307,7 @@
       "2026-08-04": 149,
       "2026-08-07": 148,
       "2026-08-06": 703,
-      "2026-08-08": 116
+      "2026-08-08": 130
     }
   },
   {
@@ -2554,7 +2554,7 @@
     "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.68%",
+    "uptimeMonth": "87.71%",
     "uptimeYear": "90.86%",
     "time": 846,
     "timeDay": 0,
@@ -2663,7 +2663,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.69%",
+    "uptimeYear": "41.68%",
     "time": 2722,
     "timeDay": 0,
     "timeWeek": 1017,
@@ -2684,7 +2684,7 @@
       "2025-12-17": 1341,
       "2025-12-16": 1440,
       "2025-12-15": 268,
-      "2026-08-08": 116,
+      "2026-08-08": 130,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -2977,7 +2977,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 117,
+      "2026-08-08": 130,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -3114,11 +3114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crt.sh.ico",
     "slug": "crt-sh",
     "status": "down",
-    "uptime": "77.02%",
+    "uptime": "77.01%",
     "uptimeDay": "45.20%",
-    "uptimeWeek": "47.43%",
-    "uptimeMonth": "53.63%",
-    "uptimeYear": "77.02%",
+    "uptimeWeek": "47.30%",
+    "uptimeMonth": "53.60%",
+    "uptimeYear": "77.01%",
     "time": 5701,
     "timeDay": 4482,
     "timeWeek": 5874,
@@ -3151,7 +3151,7 @@
       "2026-08-05": 968,
       "2026-08-06": 826,
       "2026-08-07": 782,
-      "2026-08-08": 7
+      "2026-08-08": 21
     }
   }
 ]
