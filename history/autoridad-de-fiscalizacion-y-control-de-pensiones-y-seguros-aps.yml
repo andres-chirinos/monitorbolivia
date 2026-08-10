@@ -1,7 +1,7 @@
 url: https://www.aps.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 4895
-lastUpdated: 2026-08-09T02:33:39.456Z
+responseTime: 5100
+lastUpdated: 2026-08-10T08:17:06.819Z
 startTime: 2024-11-25T02:55:58.851Z
 generator: Upptime <https://github.com/upptime/upptime>
