@@ -1,7 +1,7 @@
 url: https://www.diputados.bo
-status: up
+status: degraded
 code: 200
-responseTime: 2511
-lastUpdated: 2026-08-14T15:35:51.687Z
+responseTime: 6753
+lastUpdated: 2026-08-14T21:11:36.962Z
 startTime: 2024-11-25T02:55:11.487Z
 generator: Upptime <https://github.com/upptime/upptime>
