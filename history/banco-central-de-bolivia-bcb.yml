@@ -1,7 +1,7 @@
 url: https://www.bcb.gob.bo
-status: down
-code: 502
-responseTime: 314
-lastUpdated: 2026-08-14T21:14:15.032Z
+status: degraded
+code: 200
+responseTime: 9248
+lastUpdated: 2026-08-14T21:48:45.466Z
 startTime: 2024-11-25T02:55:40.038Z
 generator: Upptime <https://github.com/upptime/upptime>
