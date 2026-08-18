@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 2300,
     "timeMonth": 2398,
-    "timeYear": 1821,
+    "timeYear": 1820,
     "dailyMinutesDown": {
       "2025-08-25": 40,
       "2025-08-30": 18,
@@ -85,7 +85,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.23%",
+    "uptimeYear": "27.24%",
     "time": 751,
     "timeDay": 0,
     "timeWeek": 1011,
@@ -378,7 +378,7 @@
     "timeDay": 0,
     "timeWeek": 2089,
     "timeMonth": 1696,
-    "timeYear": 1489,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2026-01-14": 32,
       "2026-01-15": 65,
@@ -530,7 +530,7 @@
     "timeDay": 0,
     "timeWeek": 1738,
     "timeMonth": 1807,
-    "timeYear": 1606,
+    "timeYear": 1607,
     "dailyMinutesDown": {}
   },
   {
@@ -548,7 +548,7 @@
     "timeDay": 0,
     "timeWeek": 1325,
     "timeMonth": 1384,
-    "timeYear": 978,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   },
   {
@@ -566,7 +566,7 @@
     "timeDay": 0,
     "timeWeek": 1051,
     "timeMonth": 1229,
-    "timeYear": 924,
+    "timeYear": 925,
     "dailyMinutesDown": {}
   },
   {
@@ -576,15 +576,15 @@
     "slug": "asamblea-legislativa-plurinacional-de-bolivia",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "95.43%",
-    "uptimeWeek": "41.34%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "41.44%",
     "uptimeMonth": "84.79%",
     "uptimeYear": "98.49%",
     "time": 2323,
     "timeDay": 5548,
-    "timeWeek": 4102,
+    "timeWeek": 3977,
     "timeMonth": 3163,
-    "timeYear": 2506,
+    "timeYear": 2507,
     "dailyMinutesDown": {
       "2025-08-20": 13,
       "2025-08-21": 53,
@@ -629,7 +629,7 @@
     "timeDay": 866,
     "timeWeek": 757,
     "timeMonth": 792,
-    "timeYear": 1885,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2025-08-21": 43,
       "2025-08-22": 198,
@@ -667,7 +667,7 @@
     "timeDay": 0,
     "timeWeek": 4947,
     "timeMonth": 4765,
-    "timeYear": 3506,
+    "timeYear": 3509,
     "dailyMinutesDown": {
       "2025-08-20": 29,
       "2025-08-21": 53,
@@ -713,7 +713,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gacetaoficialdebolivia.gob.bo.ico",
     "slug": "gaceta-oficial-del-estado-plurinacional-de-bolivia",
     "status": "down",
-    "uptime": "73.76%",
+    "uptime": "73.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.89%",
     "uptimeMonth": "7.24%",
@@ -894,7 +894,7 @@
       "2026-08-11": 1440,
       "2026-08-14": 1231,
       "2026-08-13": 1440,
-      "2026-08-18": 1369,
+      "2026-08-18": 1392,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440
@@ -915,7 +915,7 @@
     "timeDay": 9004,
     "timeWeek": 5248,
     "timeMonth": 3903,
-    "timeYear": 3303,
+    "timeYear": 3300,
     "dailyMinutesDown": {
       "2025-10-03": 26,
       "2025-10-08": 65,
@@ -973,8 +973,8 @@
     "status": "up",
     "uptime": "74.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.30%",
-    "uptimeMonth": "95.70%",
+    "uptimeWeek": "81.07%",
+    "uptimeMonth": "95.64%",
     "uptimeYear": "98.81%",
     "time": 1685,
     "timeDay": 0,
@@ -1001,7 +1001,7 @@
       "2026-04-24": 169,
       "2026-05-04": 58,
       "2026-08-17": 516,
-      "2026-08-18": 1369
+      "2026-08-18": 1392
     }
   },
   {
@@ -1019,7 +1019,7 @@
     "timeDay": 13621,
     "timeWeek": 5944,
     "timeMonth": 3565,
-    "timeYear": 2458,
+    "timeYear": 2456,
     "dailyMinutesDown": {
       "2025-08-20": 15,
       "2025-09-19": 24,
@@ -1051,15 +1051,15 @@
     "slug": "universidad-tecnica-de-oruro-uto",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "83.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "83.88%",
     "uptimeMonth": "90.92%",
     "uptimeYear": "99.05%",
     "time": 4001,
-    "timeDay": 3808,
-    "timeWeek": 3896,
+    "timeDay": 0,
+    "timeWeek": 3982,
     "timeMonth": 3680,
-    "timeYear": 3800,
+    "timeYear": 3797,
     "dailyMinutesDown": {
       "2025-08-20": 14,
       "2025-09-07": 30,
@@ -1213,7 +1213,7 @@
     "timeDay": 0,
     "timeWeek": 1575,
     "timeMonth": 1635,
-    "timeYear": 2370,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2025-08-20": 42,
       "2025-08-21": 46,
@@ -1274,17 +1274,17 @@
     "url": "https://www.entel.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.entel.bo.ico",
     "slug": "empresa-nacional-de-telecomunicaciones-entel",
-    "status": "degraded",
+    "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "53.98%",
-    "uptimeWeek": "71.38%",
-    "uptimeMonth": "70.74%",
+    "uptimeDay": "54.07%",
+    "uptimeWeek": "71.26%",
+    "uptimeMonth": "70.71%",
     "uptimeYear": "97.00%",
-    "time": 2565,
-    "timeDay": 7696,
-    "timeWeek": 6307,
-    "timeMonth": 6821,
-    "timeYear": 2853,
+    "time": 2568,
+    "timeDay": 8037,
+    "timeWeek": 6266,
+    "timeMonth": 6798,
+    "timeYear": 2859,
     "dailyMinutesDown": {
       "2025-09-09": 48,
       "2025-09-16": 13,
@@ -1328,7 +1328,7 @@
       "2026-08-15": 531,
       "2026-08-16": 673,
       "2026-08-17": 659,
-      "2026-08-18": 648
+      "2026-08-18": 660
     }
   },
   {
@@ -1339,14 +1339,14 @@
     "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.23%",
-    "uptimeMonth": "93.23%",
+    "uptimeWeek": "81.00%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "98.88%",
     "time": 1137,
     "timeDay": 0,
     "timeWeek": 478,
     "timeMonth": 871,
-    "timeYear": 1109,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2025-08-22": 16,
       "2025-08-25": 13,
@@ -1394,7 +1394,7 @@
       "2026-08-11": 77,
       "2026-08-12": 18,
       "2026-08-17": 506,
-      "2026-08-18": 1369
+      "2026-08-18": 1392
     }
   },
   {
@@ -1456,15 +1456,15 @@
     "slug": "bolivia-tv-btv",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "79.98%",
-    "uptimeWeek": "67.94%",
+    "uptimeDay": "81.58%",
+    "uptimeWeek": "68.08%",
     "uptimeMonth": "72.66%",
     "uptimeYear": "97.72%",
     "time": 5139,
     "timeDay": 4723,
-    "timeWeek": 5189,
+    "timeWeek": 5204,
     "timeMonth": 5280,
-    "timeYear": 4855,
+    "timeYear": 4853,
     "dailyMinutesDown": {
       "2026-07-22": 126,
       "2026-07-23": 782,
@@ -1531,7 +1531,7 @@
     "timeDay": 0,
     "timeWeek": 858,
     "timeMonth": 922,
-    "timeYear": 1208,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-10-16": 113,
       "2025-11-18": 109,
@@ -1556,7 +1556,7 @@
     "timeDay": 0,
     "timeWeek": 1261,
     "timeMonth": 1404,
-    "timeYear": 1581,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2025-08-26": 17,
       "2025-08-29": 15,
@@ -1638,7 +1638,7 @@
     "slug": "aduana-nacional-de-bolivia",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "16.19%",
+    "uptimeDay": "17.79%",
     "uptimeWeek": "84.05%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "97.41%",
@@ -1646,7 +1646,7 @@
     "timeDay": 1785,
     "timeWeek": 2339,
     "timeMonth": 1910,
-    "timeYear": 2653,
+    "timeYear": 2655,
     "dailyMinutesDown": {
       "2025-09-16": 27,
       "2025-09-19": 71,
@@ -1863,7 +1863,7 @@
     "timeDay": 0,
     "timeWeek": 2252,
     "timeMonth": 2664,
-    "timeYear": 3673,
+    "timeYear": 3657,
     "dailyMinutesDown": {
       "2025-08-20": 340,
       "2025-08-19": 122,
@@ -1937,7 +1937,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1020,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   },
   {
@@ -1955,7 +1955,7 @@
     "timeDay": 0,
     "timeWeek": 3221,
     "timeMonth": 2907,
-    "timeYear": 2943,
+    "timeYear": 2946,
     "dailyMinutesDown": {}
   },
   {
@@ -1973,7 +1973,7 @@
     "timeDay": 0,
     "timeWeek": 2148,
     "timeMonth": 2533,
-    "timeYear": 2926,
+    "timeYear": 2927,
     "dailyMinutesDown": {
       "2025-08-29": 588,
       "2025-08-28": 254,
@@ -2099,8 +2099,8 @@
     "status": "up",
     "uptime": "98.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.52%",
-    "uptimeMonth": "95.98%",
+    "uptimeWeek": "82.29%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "98.16%",
     "time": 2358,
     "timeDay": 0,
@@ -2135,7 +2135,7 @@
       "2026-05-17": 276,
       "2026-06-11": 191,
       "2026-07-16": 59,
-      "2026-08-18": 1370,
+      "2026-08-18": 1393,
       "2026-08-17": 393
     }
   },
@@ -2189,7 +2189,7 @@
     "timeDay": 0,
     "timeWeek": 557,
     "timeMonth": 865,
-    "timeYear": 1456,
+    "timeYear": 1455,
     "dailyMinutesDown": {
       "2025-09-09": 15,
       "2025-09-17": 809,
@@ -2234,7 +2234,7 @@
     "timeDay": 0,
     "timeWeek": 1338,
     "timeMonth": 1401,
-    "timeYear": 2171,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2025-08-19": 26,
       "2025-08-20": 19,
@@ -2265,7 +2265,7 @@
     "timeDay": 0,
     "timeWeek": 1031,
     "timeMonth": 1092,
-    "timeYear": 1044,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-09-18": 32,
       "2025-11-13": 13,
@@ -2285,14 +2285,14 @@
     "status": "up",
     "uptime": "98.74%",
     "uptimeDay": "93.64%",
-    "uptimeWeek": "96.15%",
+    "uptimeWeek": "96.22%",
     "uptimeMonth": "89.81%",
     "uptimeYear": "98.02%",
     "time": 2420,
     "timeDay": 4541,
-    "timeWeek": 3842,
+    "timeWeek": 3754,
     "timeMonth": 3725,
-    "timeYear": 3028,
+    "timeYear": 3033,
     "dailyMinutesDown": {
       "2025-09-09": 17,
       "2025-09-11": 12,
@@ -2371,7 +2371,7 @@
     "timeDay": 0,
     "timeWeek": 679,
     "timeMonth": 816,
-    "timeYear": 819,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-09-30": 26,
       "2025-10-09": 40,
@@ -2412,7 +2412,7 @@
     "timeDay": 0,
     "timeWeek": 3853,
     "timeMonth": 3741,
-    "timeYear": 1460,
+    "timeYear": 1461,
     "dailyMinutesDown": {}
   },
   {
@@ -2430,7 +2430,7 @@
     "timeDay": 0,
     "timeWeek": 4688,
     "timeMonth": 6843,
-    "timeYear": 5230,
+    "timeYear": 5225,
     "dailyMinutesDown": {
       "2025-08-23": 19,
       "2025-09-16": 11,
@@ -2452,7 +2452,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cns.gob.bo.ico",
     "slug": "caja-nacional-de-salud-cns",
     "status": "up",
-    "uptime": "86.68%",
+    "uptime": "86.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.30%",
@@ -2523,7 +2523,7 @@
     "timeDay": 1831,
     "timeWeek": 1547,
     "timeMonth": 1571,
-    "timeYear": 2624,
+    "timeYear": 2627,
     "dailyMinutesDown": {}
   },
   {
@@ -2533,15 +2533,15 @@
     "slug": "empresa-nacional-de-electricidad-ende",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "28.56%",
-    "uptimeWeek": "71.05%",
+    "uptimeDay": "30.16%",
+    "uptimeWeek": "71.21%",
     "uptimeMonth": "80.21%",
     "uptimeYear": "97.92%",
     "time": 2365,
     "timeDay": 3566,
-    "timeWeek": 4605,
+    "timeWeek": 4645,
     "timeMonth": 4590,
-    "timeYear": 2520,
+    "timeYear": 2521,
     "dailyMinutesDown": {
       "2026-02-18": 50,
       "2026-04-03": 362,
@@ -2595,7 +2595,7 @@
     "timeDay": 0,
     "timeWeek": 670,
     "timeMonth": 947,
-    "timeYear": 828,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2026-03-02": 47,
       "2026-03-05": 279,
@@ -2694,7 +2694,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mmaya.gob.bo.ico",
     "slug": "ministerio-de-medio-ambiente-y-agua",
     "status": "down",
-    "uptime": "63.35%",
+    "uptime": "63.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2703,7 +2703,7 @@
     "timeDay": 0,
     "timeWeek": 723,
     "timeMonth": 856,
-    "timeYear": 2125,
+    "timeYear": 2122,
     "dailyMinutesDown": {
       "2025-09-04": 24,
       "2025-09-18": 15,
@@ -2718,7 +2718,7 @@
       "2025-12-17": 1341,
       "2025-12-16": 1440,
       "2025-12-15": 268,
-      "2026-08-18": 1370,
+      "2026-08-18": 1393,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -2955,7 +2955,7 @@
     "timeDay": 0,
     "timeWeek": 724,
     "timeMonth": 750,
-    "timeYear": 1191,
+    "timeYear": 1188,
     "dailyMinutesDown": {}
   },
   {
@@ -3021,7 +3021,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1371,
+      "2026-08-18": 1393,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -3168,11 +3168,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crt.sh.ico",
     "slug": "crt-sh",
     "status": "up",
-    "uptime": "84.51%",
-    "uptimeDay": "22.10%",
-    "uptimeWeek": "48.08%",
+    "uptime": "84.52%",
+    "uptimeDay": "23.69%",
+    "uptimeWeek": "48.31%",
     "uptimeMonth": "63.22%",
-    "uptimeYear": "84.51%",
+    "uptimeYear": "84.52%",
     "time": 5832,
     "timeDay": 3420,
     "timeWeek": 6469,
