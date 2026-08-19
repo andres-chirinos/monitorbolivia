@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 2376,
     "timeMonth": 2398,
-    "timeYear": 1820,
+    "timeYear": 1821,
     "dailyMinutesDown": {
       "2025-08-25": 40,
       "2025-08-30": 18,
@@ -90,7 +90,7 @@
     "timeDay": 0,
     "timeWeek": 1034,
     "timeMonth": 1144,
-    "timeYear": 533,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2025-11-05": 828,
       "2025-11-04": 1440,
@@ -529,7 +529,7 @@
     "timeDay": 1372,
     "timeWeek": 1680,
     "timeMonth": 1783,
-    "timeYear": 1606,
+    "timeYear": 1609,
     "dailyMinutesDown": {}
   },
   {
@@ -547,7 +547,7 @@
     "timeDay": 0,
     "timeWeek": 1350,
     "timeMonth": 1384,
-    "timeYear": 980,
+    "timeYear": 983,
     "dailyMinutesDown": {}
   },
   {
@@ -565,7 +565,7 @@
     "timeDay": 0,
     "timeWeek": 1097,
     "timeMonth": 1229,
-    "timeYear": 925,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
@@ -628,7 +628,7 @@
     "timeDay": 0,
     "timeWeek": 771,
     "timeMonth": 792,
-    "timeYear": 1888,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2025-08-21": 43,
       "2025-08-22": 198,
@@ -666,7 +666,7 @@
     "timeDay": 0,
     "timeWeek": 4977,
     "timeMonth": 4765,
-    "timeYear": 3509,
+    "timeYear": 3513,
     "dailyMinutesDown": {
       "2025-08-20": 29,
       "2025-08-21": 53,
@@ -891,7 +891,7 @@
       "2026-08-11": 1440,
       "2026-08-14": 1231,
       "2026-08-13": 1440,
-      "2026-08-19": 1318,
+      "2026-08-19": 1342,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -971,14 +971,14 @@
     "status": "up",
     "uptime": "74.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.92%",
-    "uptimeMonth": "92.39%",
+    "uptimeWeek": "66.68%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "98.81%",
     "time": 1685,
     "timeDay": 0,
     "timeWeek": 3371,
     "timeMonth": 1929,
-    "timeYear": 1582,
+    "timeYear": 1584,
     "dailyMinutesDown": {
       "2025-08-20": 1144,
       "2025-08-30": 653,
@@ -998,7 +998,7 @@
       "2026-04-24": 169,
       "2026-05-04": 58,
       "2026-08-17": 516,
-      "2026-08-19": 1378,
+      "2026-08-19": 1403,
       "2026-08-18": 1440
     }
   },
@@ -1017,7 +1017,7 @@
     "timeDay": 0,
     "timeWeek": 6776,
     "timeMonth": 3565,
-    "timeYear": 2456,
+    "timeYear": 2457,
     "dailyMinutesDown": {
       "2025-08-20": 15,
       "2025-09-19": 24,
@@ -1057,7 +1057,7 @@
     "timeDay": 0,
     "timeWeek": 4074,
     "timeMonth": 3680,
-    "timeYear": 3797,
+    "timeYear": 3803,
     "dailyMinutesDown": {
       "2025-08-20": 14,
       "2025-09-07": 30,
@@ -1106,7 +1106,7 @@
     "timeDay": 0,
     "timeWeek": 2225,
     "timeMonth": 2665,
-    "timeYear": 1821,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2026-02-27": 81,
       "2026-02-28": 14,
@@ -1211,7 +1211,7 @@
     "timeDay": 0,
     "timeWeek": 1573,
     "timeMonth": 1635,
-    "timeYear": 2368,
+    "timeYear": 2370,
     "dailyMinutesDown": {
       "2025-08-20": 42,
       "2025-08-21": 46,
@@ -1274,15 +1274,15 @@
     "slug": "empresa-nacional-de-telecomunicaciones-entel",
     "status": "degraded",
     "uptime": "97.79%",
-    "uptimeDay": "49.94%",
-    "uptimeWeek": "64.71%",
-    "uptimeMonth": "69.39%",
+    "uptimeDay": "48.82%",
+    "uptimeWeek": "64.48%",
+    "uptimeMonth": "69.33%",
     "uptimeYear": "96.86%",
     "time": 2638,
-    "timeDay": 6833,
+    "timeDay": 7194,
     "timeWeek": 6501,
     "timeMonth": 6821,
-    "timeYear": 2927,
+    "timeYear": 2931,
     "dailyMinutesDown": {
       "2025-09-09": 48,
       "2025-09-16": 13,
@@ -1327,7 +1327,7 @@
       "2026-08-16": 673,
       "2026-08-17": 659,
       "2026-08-18": 703,
-      "2026-08-19": 676
+      "2026-08-19": 700
     }
   },
   {
@@ -1336,16 +1336,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancounion.com.bo.ico",
     "slug": "banco-union",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.85%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "98.61%",
+    "uptimeWeek": "66.61%",
+    "uptimeMonth": "89.87%",
+    "uptimeYear": "98.60%",
     "time": 1137,
     "timeDay": 0,
     "timeWeek": 517,
     "timeMonth": 871,
-    "timeYear": 1108,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2025-08-22": 16,
       "2025-08-25": 13,
@@ -1393,7 +1393,7 @@
       "2026-08-11": 77,
       "2026-08-12": 18,
       "2026-08-17": 506,
-      "2026-08-19": 1379,
+      "2026-08-19": 1403,
       "2026-08-18": 1440
     }
   },
@@ -1456,7 +1456,7 @@
     "slug": "bolivia-tv-btv",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "72.96%",
+    "uptimeDay": "73.33%",
     "uptimeWeek": "68.06%",
     "uptimeMonth": "74.93%",
     "uptimeYear": "97.91%",
@@ -1530,7 +1530,7 @@
     "timeDay": 0,
     "timeWeek": 895,
     "timeMonth": 922,
-    "timeYear": 1207,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-10-16": 113,
       "2025-11-18": 109,
@@ -1637,15 +1637,15 @@
     "slug": "aduana-nacional-de-bolivia",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "90.64%",
-    "uptimeWeek": "82.71%",
+    "uptimeDay": "90.55%",
+    "uptimeWeek": "82.70%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "97.38%",
     "time": 2541,
     "timeDay": 6150,
     "timeWeek": 3811,
     "timeMonth": 2588,
-    "timeYear": 2692,
+    "timeYear": 2695,
     "dailyMinutesDown": {
       "2025-09-16": 27,
       "2025-09-19": 71,
@@ -1687,7 +1687,7 @@
       "2026-08-16": 76,
       "2026-08-18": 1136,
       "2026-08-17": 395,
-      "2026-08-19": 134
+      "2026-08-19": 135
     }
   },
   {
@@ -1705,7 +1705,7 @@
     "timeDay": 0,
     "timeWeek": 1254,
     "timeMonth": 2528,
-    "timeYear": 1426,
+    "timeYear": 1427,
     "dailyMinutesDown": {
       "2025-09-29": 13,
       "2025-10-04": 28,
@@ -1955,7 +1955,7 @@
     "timeDay": 0,
     "timeWeek": 3027,
     "timeMonth": 2907,
-    "timeYear": 2946,
+    "timeYear": 2951,
     "dailyMinutesDown": {}
   },
   {
@@ -1973,7 +1973,7 @@
     "timeDay": 0,
     "timeWeek": 2152,
     "timeMonth": 2533,
-    "timeYear": 2927,
+    "timeYear": 2928,
     "dailyMinutesDown": {
       "2025-08-29": 588,
       "2025-08-28": 254,
@@ -2099,8 +2099,8 @@
     "status": "up",
     "uptime": "97.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.13%",
-    "uptimeMonth": "92.67%",
+    "uptimeWeek": "67.90%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "97.88%",
     "time": 2358,
     "timeDay": 0,
@@ -2135,7 +2135,7 @@
       "2026-05-17": 276,
       "2026-06-11": 191,
       "2026-07-16": 59,
-      "2026-08-19": 1379,
+      "2026-08-19": 1403,
       "2026-08-18": 1440,
       "2026-08-17": 393
     }
@@ -2181,7 +2181,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindef.gob.bo.ico",
     "slug": "ministerio-de-defensa",
     "status": "up",
-    "uptime": "75.73%",
+    "uptime": "75.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2190,7 +2190,7 @@
     "timeDay": 0,
     "timeWeek": 665,
     "timeMonth": 865,
-    "timeYear": 1455,
+    "timeYear": 1457,
     "dailyMinutesDown": {
       "2025-09-09": 15,
       "2025-09-17": 809,
@@ -2235,7 +2235,7 @@
     "timeDay": 0,
     "timeWeek": 1403,
     "timeMonth": 1401,
-    "timeYear": 2143,
+    "timeYear": 2129,
     "dailyMinutesDown": {
       "2025-08-20": 19,
       "2025-08-21": 31,
@@ -2265,7 +2265,7 @@
     "timeDay": 0,
     "timeWeek": 1083,
     "timeMonth": 1092,
-    "timeYear": 1045,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-09-18": 32,
       "2025-11-13": 13,
@@ -2292,7 +2292,7 @@
     "timeDay": 0,
     "timeWeek": 3827,
     "timeMonth": 3726,
-    "timeYear": 3033,
+    "timeYear": 3038,
     "dailyMinutesDown": {
       "2025-09-09": 17,
       "2025-09-11": 12,
@@ -2353,7 +2353,7 @@
     "timeDay": 0,
     "timeWeek": 2146,
     "timeMonth": 2439,
-    "timeYear": 2472,
+    "timeYear": 2475,
     "dailyMinutesDown": {}
   },
   {
@@ -2371,7 +2371,7 @@
     "timeDay": 0,
     "timeWeek": 654,
     "timeMonth": 816,
-    "timeYear": 818,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2025-09-30": 26,
       "2025-10-09": 40,
@@ -2412,7 +2412,7 @@
     "timeDay": 0,
     "timeWeek": 3865,
     "timeMonth": 3741,
-    "timeYear": 1461,
+    "timeYear": 1462,
     "dailyMinutesDown": {}
   },
   {
@@ -2430,7 +2430,7 @@
     "timeDay": 0,
     "timeWeek": 4865,
     "timeMonth": 6843,
-    "timeYear": 5225,
+    "timeYear": 5224,
     "dailyMinutesDown": {
       "2025-08-23": 19,
       "2025-09-16": 11,
@@ -2461,7 +2461,7 @@
     "timeDay": 0,
     "timeWeek": 1673,
     "timeMonth": 1644,
-    "timeYear": 2129,
+    "timeYear": 2131,
     "dailyMinutesDown": {
       "2025-09-06": 12,
       "2025-09-07": 67,
@@ -2513,17 +2513,17 @@
     "url": "https://www.att.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.att.gob.bo.ico",
     "slug": "autoridad-de-regulacion-y-fiscalizacion-de-telecomunicaciones-y-transportes-att",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2195,
+    "time": 2197,
     "timeDay": 1521,
     "timeWeek": 1541,
     "timeMonth": 1568,
-    "timeYear": 2617,
+    "timeYear": 2621,
     "dailyMinutesDown": {}
   },
   {
@@ -2541,7 +2541,7 @@
     "timeDay": 3712,
     "timeWeek": 4690,
     "timeMonth": 4615,
-    "timeYear": 2525,
+    "timeYear": 2529,
     "dailyMinutesDown": {
       "2026-04-03": 362,
       "2026-07-10": 84,
@@ -2595,7 +2595,7 @@
     "timeDay": 0,
     "timeWeek": 710,
     "timeMonth": 979,
-    "timeYear": 827,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2026-03-02": 47,
       "2026-03-05": 279,
@@ -2698,12 +2698,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.44%",
+    "uptimeYear": "38.43%",
     "time": 2701,
     "timeDay": 0,
     "timeWeek": 717,
     "timeMonth": 856,
-    "timeYear": 2122,
+    "timeYear": 2109,
     "dailyMinutesDown": {
       "2025-09-04": 24,
       "2025-09-18": 15,
@@ -2718,7 +2718,7 @@
       "2025-12-17": 1341,
       "2025-12-16": 1440,
       "2025-12-15": 268,
-      "2026-08-19": 1380,
+      "2026-08-19": 1404,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -3002,7 +3002,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 702,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   },
   {
@@ -3022,7 +3022,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 1380,
+      "2026-08-19": 1404,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -3169,17 +3169,17 @@
     "url": "https://crt.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/crt.sh.ico",
     "slug": "crt-sh",
-    "status": "down",
-    "uptime": "84.65%",
-    "uptimeDay": "5.54%",
-    "uptimeWeek": "46.09%",
-    "uptimeMonth": "63.02%",
-    "uptimeYear": "84.65%",
-    "time": 5865,
-    "timeDay": 7544,
-    "timeWeek": 6863,
-    "timeMonth": 6061,
-    "timeYear": 5865,
+    "status": "up",
+    "uptime": "84.63%",
+    "uptimeDay": "4.03%",
+    "uptimeWeek": "45.96%",
+    "uptimeMonth": "62.97%",
+    "uptimeYear": "84.63%",
+    "time": 5853,
+    "timeDay": 6829,
+    "timeWeek": 6862,
+    "timeMonth": 6044,
+    "timeYear": 5853,
     "dailyMinutesDown": {
       "2026-08-01": 527,
       "2026-08-02": 545,
@@ -3199,7 +3199,7 @@
       "2026-08-16": 502,
       "2026-08-17": 741,
       "2026-08-18": 1095,
-      "2026-08-19": 1332
+      "2026-08-19": 1354
     }
   }
 ]
