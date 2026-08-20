@@ -370,7 +370,7 @@
     "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.15%",
-    "uptimeMonth": "97.92%",
+    "uptimeMonth": "97.97%",
     "uptimeYear": "98.29%",
     "time": 1485,
     "timeDay": 0,
@@ -712,7 +712,7 @@
     "uptimeDay": "9.46%",
     "uptimeWeek": "4.04%",
     "uptimeMonth": "7.69%",
-    "uptimeYear": "54.71%",
+    "uptimeYear": "54.70%",
     "time": 1827,
     "timeDay": 8576,
     "timeWeek": 16253,
@@ -892,7 +892,7 @@
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
-      "2026-08-20": 891
+      "2026-08-20": 916
     }
   },
   {
@@ -968,8 +968,8 @@
     "status": "up",
     "uptime": "74.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.11%",
-    "uptimeMonth": "89.90%",
+    "uptimeWeek": "55.86%",
+    "uptimeMonth": "89.84%",
     "uptimeYear": "98.81%",
     "time": 1685,
     "timeDay": 0,
@@ -994,7 +994,7 @@
       "2026-04-24": 169,
       "2026-05-04": 58,
       "2026-08-17": 516,
-      "2026-08-20": 1028,
+      "2026-08-20": 1053,
       "2026-08-19": 1440,
       "2026-08-18": 1440
     }
@@ -1197,7 +1197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.viasbolivia.gob.bo.ico",
     "slug": "administradora-boliviana-de-carreteras-abc",
     "status": "up",
-    "uptime": "79.04%",
+    "uptime": "79.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1269,9 +1269,9 @@
     "status": "degraded",
     "uptime": "97.77%",
     "uptimeDay": "51.64%",
-    "uptimeWeek": "61.28%",
-    "uptimeMonth": "68.60%",
-    "uptimeYear": "96.80%",
+    "uptimeWeek": "61.04%",
+    "uptimeMonth": "68.54%",
+    "uptimeYear": "96.79%",
     "time": 2677,
     "timeDay": 7142,
     "timeWeek": 6640,
@@ -1322,7 +1322,7 @@
       "2026-08-17": 659,
       "2026-08-18": 703,
       "2026-08-19": 737,
-      "2026-08-20": 284
+      "2026-08-20": 309
     }
   },
   {
@@ -1331,10 +1331,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancounion.com.bo.ico",
     "slug": "banco-union",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.22%",
-    "uptimeMonth": "87.44%",
+    "uptimeWeek": "55.97%",
+    "uptimeMonth": "87.38%",
     "uptimeYear": "98.40%",
     "time": 1137,
     "timeDay": 0,
@@ -1388,7 +1388,7 @@
       "2026-08-11": 77,
       "2026-08-12": 18,
       "2026-08-17": 506,
-      "2026-08-20": 1028,
+      "2026-08-20": 1053,
       "2026-08-19": 1440,
       "2026-08-18": 1440
     }
@@ -1450,16 +1450,16 @@
     "url": "https://www.boliviatv.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.boliviatv.bo.ico",
     "slug": "bolivia-tv-btv",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "81.09%",
-    "uptimeWeek": "71.08%",
-    "uptimeMonth": "76.60%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "71.20%",
+    "uptimeMonth": "76.57%",
     "uptimeYear": "98.05%",
-    "time": 5186,
-    "timeDay": 4604,
-    "timeWeek": 5103,
-    "timeMonth": 5266,
+    "time": 5185,
+    "timeDay": 4609,
+    "timeWeek": 5098,
+    "timeMonth": 5264,
     "timeYear": 4860,
     "dailyMinutesDown": {
       "2026-07-27": 394,
@@ -1486,7 +1486,7 @@
       "2026-08-17": 921,
       "2026-08-18": 300,
       "2026-08-19": 346,
-      "2026-08-20": 168
+      "2026-08-20": 181
     }
   },
   {
@@ -1816,9 +1816,9 @@
     "slug": "ministerio-de-gobierno",
     "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "32.86%",
-    "uptimeWeek": "90.09%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "31.14%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "98.81%",
     "time": 1617,
     "timeDay": 1512,
@@ -1842,7 +1842,7 @@
       "2026-03-26": 42,
       "2026-08-15": 32,
       "2026-08-19": 50,
-      "2026-08-20": 916
+      "2026-08-20": 941
     }
   },
   {
@@ -1948,7 +1948,7 @@
     "uptimeYear": "100.00%",
     "time": 3175,
     "timeDay": 0,
-    "timeWeek": 2746,
+    "timeWeek": 2634,
     "timeMonth": 2971,
     "timeYear": 2954,
     "dailyMinutesDown": {}
@@ -2092,11 +2092,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpv2024.ine.gob.bo.ico",
     "slug": "censo-de-poblacion-y-vivienda-2024-ine",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.33%",
-    "uptimeMonth": "90.18%",
-    "uptimeYear": "97.68%",
+    "uptimeWeek": "57.08%",
+    "uptimeMonth": "90.12%",
+    "uptimeYear": "97.67%",
     "time": 2358,
     "timeDay": 0,
     "timeWeek": 3750,
@@ -2130,7 +2130,7 @@
       "2026-05-17": 276,
       "2026-06-11": 191,
       "2026-07-16": 59,
-      "2026-08-20": 1029,
+      "2026-08-20": 1054,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 393
@@ -2713,7 +2713,7 @@
       "2025-12-17": 1341,
       "2025-12-16": 1440,
       "2025-12-15": 268,
-      "2026-08-20": 1030,
+      "2026-08-20": 1054,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -3018,7 +3018,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 1030,
+      "2026-08-20": 1055,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -3166,17 +3166,17 @@
     "url": "https://crt.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/crt.sh.ico",
     "slug": "crt-sh",
-    "status": "down",
-    "uptime": "83.87%",
+    "status": "degraded",
+    "uptime": "83.85%",
     "uptimeDay": "5.14%",
     "uptimeWeek": "41.64%",
-    "uptimeMonth": "60.76%",
-    "uptimeYear": "83.87%",
-    "time": 5844,
-    "timeDay": 1949,
-    "timeWeek": 6094,
-    "timeMonth": 5992,
-    "timeYear": 5844,
+    "uptimeMonth": "60.70%",
+    "uptimeYear": "83.85%",
+    "time": 5858,
+    "timeDay": 3279,
+    "timeWeek": 6161,
+    "timeMonth": 6011,
+    "timeYear": 5858,
     "dailyMinutesDown": {
       "2026-08-01": 455,
       "2026-08-02": 545,
@@ -3197,7 +3197,7 @@
       "2026-08-17": 741,
       "2026-08-18": 1095,
       "2026-08-19": 1367,
-      "2026-08-20": 1030
+      "2026-08-20": 1055
     }
   }
 ]
