@@ -85,7 +85,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.59%",
+    "uptimeYear": "27.60%",
     "time": 751,
     "timeDay": 0,
     "timeWeek": 1036,
@@ -717,7 +717,7 @@
     "timeDay": 9702,
     "timeWeek": 18042,
     "timeMonth": 9671,
-    "timeYear": 1915,
+    "timeYear": 1917,
     "dailyMinutesDown": {
       "2026-02-28": 1096,
       "2026-03-01": 1372,
@@ -892,7 +892,7 @@
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
-      "2026-08-20": 364
+      "2026-08-20": 390
     }
   },
   {
@@ -968,8 +968,8 @@
     "status": "up",
     "uptime": "74.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.70%",
-    "uptimeMonth": "91.42%",
+    "uptimeWeek": "62.44%",
+    "uptimeMonth": "91.36%",
     "uptimeYear": "98.81%",
     "time": 1685,
     "timeDay": 0,
@@ -994,7 +994,7 @@
       "2026-04-24": 169,
       "2026-05-04": 58,
       "2026-08-17": 516,
-      "2026-08-20": 364,
+      "2026-08-20": 390,
       "2026-08-19": 1440,
       "2026-08-18": 1440
     }
@@ -1333,9 +1333,9 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "88.95%",
-    "uptimeYear": "98.53%",
+    "uptimeWeek": "62.54%",
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "98.52%",
     "time": 1137,
     "timeDay": 0,
     "timeWeek": 534,
@@ -1388,7 +1388,7 @@
       "2026-08-11": 77,
       "2026-08-12": 18,
       "2026-08-17": 506,
-      "2026-08-20": 364,
+      "2026-08-20": 391,
       "2026-08-19": 1440,
       "2026-08-18": 1440
     }
@@ -1818,9 +1818,9 @@
     "slug": "ministerio-de-gobierno",
     "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "78.99%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "77.14%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "98.94%",
     "time": 1617,
     "timeDay": 1512,
@@ -1844,7 +1844,7 @@
       "2026-03-26": 42,
       "2026-08-15": 32,
       "2026-08-19": 50,
-      "2026-08-20": 252
+      "2026-08-20": 279
     }
   },
   {
@@ -2096,8 +2096,8 @@
     "status": "up",
     "uptime": "97.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.92%",
-    "uptimeMonth": "91.70%",
+    "uptimeWeek": "63.65%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "97.80%",
     "time": 2358,
     "timeDay": 0,
@@ -2132,7 +2132,7 @@
       "2026-05-17": 276,
       "2026-06-11": 191,
       "2026-07-16": 59,
-      "2026-08-20": 365,
+      "2026-08-20": 391,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 393
@@ -2510,17 +2510,17 @@
     "url": "https://www.att.gob.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.att.gob.bo.ico",
     "slug": "autoridad-de-regulacion-y-fiscalizacion-de-telecomunicaciones-y-transportes-att",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2200,
-    "timeDay": 1603,
-    "timeWeek": 1534,
-    "timeMonth": 1569,
-    "timeYear": 2619,
+    "timeDay": 1564,
+    "timeWeek": 1530,
+    "timeMonth": 1567,
+    "timeYear": 2616,
     "dailyMinutesDown": {}
   },
   {
@@ -2695,7 +2695,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.36%",
+    "uptimeYear": "38.35%",
     "time": 2701,
     "timeDay": 0,
     "timeWeek": 743,
@@ -2715,7 +2715,7 @@
       "2025-12-17": 1341,
       "2025-12-16": 1440,
       "2025-12-15": 268,
-      "2026-08-20": 365,
+      "2026-08-20": 392,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -3020,7 +3020,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 365,
+      "2026-08-20": 392,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -3169,11 +3169,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crt.sh.ico",
     "slug": "crt-sh",
     "status": "down",
-    "uptime": "84.40%",
+    "uptime": "84.38%",
     "uptimeDay": "5.14%",
-    "uptimeWeek": "44.60%",
-    "uptimeMonth": "62.27%",
-    "uptimeYear": "84.40%",
+    "uptimeWeek": "44.33%",
+    "uptimeMonth": "62.21%",
+    "uptimeYear": "84.38%",
     "time": 5842,
     "timeDay": 6850,
     "timeWeek": 6513,
@@ -3199,7 +3199,7 @@
       "2026-08-17": 741,
       "2026-08-18": 1095,
       "2026-08-19": 1367,
-      "2026-08-20": 365
+      "2026-08-20": 392
     }
   }
 ]
