@@ -1,7 +1,7 @@
 url: https://www.minsalud.gob.bo
-status: up
+status: degraded
 code: 200
-responseTime: 1253
-lastUpdated: 2026-08-24T05:00:13.307Z
+responseTime: 6994
+lastUpdated: 2026-08-24T11:03:02.657Z
 startTime: 2024-11-25T02:55:53.001Z
 generator: Upptime <https://github.com/upptime/upptime>
